@@ -1,0 +1,3 @@
+04.05.17 13:06:40 Вызван метод: user.current с параметрами: {"auth":"m1thqz74fq3ilzfjje1tiu17zkzfp5a6"} 
+04.05.17 13:06:41 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"m1thqz74fq3ilzfjje1tiu17zkzfp5a6"} 
+04.05.17 13:06:41 Вызван метод: user.get с параметрами: {"auth":"m1thqz74fq3ilzfjje1tiu17zkzfp5a6"} 

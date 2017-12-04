@@ -1,0 +1,4 @@
+04.10.17 20:44:33 fpe23121@loaoa.com Вызван метод: crm.status.list с параметрами: {"auth":"guiw2wgzy2mmdqnz3r6uafeqttb1c2hi"} 
+04.10.17 20:44:34 fpe23121@loaoa.com Вызван метод: user.get с параметрами: {"auth":"guiw2wgzy2mmdqnz3r6uafeqttb1c2hi","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:44:34 fpe23121@loaoa.com Вызван метод: sonet_group.get с параметрами: {"auth":"guiw2wgzy2mmdqnz3r6uafeqttb1c2hi","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:44:34 fpe23121@loaoa.com Вызван метод: event.get с параметрами: {"auth":"guiw2wgzy2mmdqnz3r6uafeqttb1c2hi"} 

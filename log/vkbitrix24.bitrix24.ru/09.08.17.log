@@ -1,0 +1,6 @@
+09.08.17 14:52:31 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+09.08.17 14:52:31 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+09.08.17 14:52:32 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"pyudxomfobaqfof27gklbqszxkqtmx6t","id":"13"} 
+09.08.17 14:53:55 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+09.08.17 14:53:55 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+09.08.17 14:53:56 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"w29um82uid8wwsqffux204r6a16ix616","id":"13"} 

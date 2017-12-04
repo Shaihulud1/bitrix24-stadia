@@ -1,0 +1,155 @@
+10.05.17 12:55:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:55:58 Вызван метод: crm.deal.get с параметрами: {"auth":"bzo3sm95vasonyl45f8conkz3c57rpf8","id":"6"} 
+10.05.17 12:55:59 Вызван метод: crm.deal.update с параметрами: {"auth":"bzo3sm95vasonyl45f8conkz3c57rpf8","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 12:56:01 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:56:01 Вызван метод: crm.deal.get с параметрами: {"auth":"6bpq5argcf4c0w56dm72iqe7jw3qb1th","id":"6"} 
+10.05.17 12:56:05 Вызван метод: crm.deal.update с параметрами: {"auth":"6bpq5argcf4c0w56dm72iqe7jw3qb1th","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 12:56:06 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:56:07 Вызван метод: crm.deal.get с параметрами: {"auth":"mkg6l21fi119hfdpl6u8hbofm0pp15nt","id":"6"} 
+10.05.17 12:56:09 Вызван метод: crm.deal.update с параметрами: {"auth":"mkg6l21fi119hfdpl6u8hbofm0pp15nt","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 12:56:12 Вызван метод: user.current с параметрами: {"auth":"6j90m5w807q8oz07yqrw713ro5g1rohz"} 
+10.05.17 12:59:05 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:59:06 Вызван метод: crm.deal.get с параметрами: {"auth":"zbr0xuq3wo1r80r1u85htpedw008hzse","id":"6"} 
+10.05.17 12:59:08 Вызван метод: crm.deal.update с параметрами: {"auth":"zbr0xuq3wo1r80r1u85htpedw008hzse","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 12:59:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:59:11 Вызван метод: crm.deal.get с параметрами: {"auth":"i93ese4gotwcglvj2u65m2wx5ejzalzz","id":"6"} 
+10.05.17 12:59:12 Вызван метод: crm.deal.update с параметрами: {"auth":"i93ese4gotwcglvj2u65m2wx5ejzalzz","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 12:59:13 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 12:59:14 Вызван метод: crm.deal.get с параметрами: {"auth":"mv2i4yelguime19qg1fw8pz97yzm299j","id":"6"} 
+10.05.17 12:59:15 Вызван метод: crm.deal.update с параметрами: {"auth":"mv2i4yelguime19qg1fw8pz97yzm299j","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:00:49 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:00:50 Вызван метод: crm.deal.get с параметрами: {"auth":"q76e5nrzty8ayzyspxowc96xyj85qeiq","id":"6"} 
+10.05.17 13:00:52 Вызван метод: crm.deal.update с параметрами: {"auth":"q76e5nrzty8ayzyspxowc96xyj85qeiq","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:00:53 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:00:54 Вызван метод: crm.deal.get с параметрами: {"auth":"er1pt364bx7r4i1jnqa600im1cni2ahm","id":"6"} 
+10.05.17 13:00:55 Вызван метод: crm.deal.update с параметрами: {"auth":"er1pt364bx7r4i1jnqa600im1cni2ahm","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:00:58 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:00:58 Вызван метод: crm.deal.get с параметрами: {"auth":"dw16ruu0m27zspjkzx3ztnov4li25uhu","id":"6"} 
+10.05.17 13:01:01 Вызван метод: crm.deal.update с параметрами: {"auth":"dw16ruu0m27zspjkzx3ztnov4li25uhu","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:02:35 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:02:36 Вызван метод: crm.deal.get с параметрами: {"auth":"c9iuc5y69wh1c6pwvf5ntt3esre2zcxp","id":"6"} 
+10.05.17 13:02:38 Вызван метод: crm.deal.update с параметрами: {"auth":"c9iuc5y69wh1c6pwvf5ntt3esre2zcxp","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:02:40 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:02:40 Вызван метод: crm.deal.get с параметрами: {"auth":"x5brrhjglinun3s2apd5npqrz499jgq5","id":"6"} 
+10.05.17 13:02:42 Вызван метод: crm.deal.update с параметрами: {"auth":"x5brrhjglinun3s2apd5npqrz499jgq5","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:02:43 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:02:45 Вызван метод: crm.deal.get с параметрами: {"auth":"7yejvm1ue4illcda0v6pgsgnbg6msh8o","id":"6"} 
+10.05.17 13:02:46 Вызван метод: crm.deal.update с параметрами: {"auth":"7yejvm1ue4illcda0v6pgsgnbg6msh8o","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:05:23 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:05:24 Вызван метод: crm.deal.get с параметрами: {"auth":"st1e6bk85iwn77kbp3n9mb5mi0b420wc","id":"6"} 
+10.05.17 13:05:26 Вызван метод: crm.deal.update с параметрами: {"auth":"st1e6bk85iwn77kbp3n9mb5mi0b420wc","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:05:27 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:05:28 Вызван метод: crm.deal.get с параметрами: {"auth":"s91627tf6p3gvjq1r6qqlc6ygp4s7m4n","id":"6"} 
+10.05.17 13:05:30 Вызван метод: crm.deal.update с параметрами: {"auth":"s91627tf6p3gvjq1r6qqlc6ygp4s7m4n","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:05:32 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:05:33 Вызван метод: crm.deal.get с параметрами: {"auth":"lfgd4lskw838nu0xam68iv04vdinuev7","id":"6"} 
+10.05.17 13:05:34 Вызван метод: crm.deal.update с параметрами: {"auth":"lfgd4lskw838nu0xam68iv04vdinuev7","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:12:53  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:12:53  Вызван метод: crm.deal.get с параметрами: {"auth":"ljceqjr50z142qmsyfxse9rmpv7evmb2","id":"6"} 
+10.05.17 13:12:55  Вызван метод: crm.deal.update с параметрами: {"auth":"ljceqjr50z142qmsyfxse9rmpv7evmb2","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:12:57  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:12:57  Вызван метод: crm.deal.get с параметрами: {"auth":"ipgppdaz5bzkz1saf28pfp6344jo9mlq","id":"6"} 
+10.05.17 13:12:58  Вызван метод: crm.deal.update с параметрами: {"auth":"ipgppdaz5bzkz1saf28pfp6344jo9mlq","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:13:00  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:13:01  Вызван метод: crm.deal.get с параметрами: {"auth":"xpkro6ijba6x4posic30vm088ikot0zw","id":"6"} 
+10.05.17 13:13:02  Вызван метод: crm.deal.update с параметрами: {"auth":"xpkro6ijba6x4posic30vm088ikot0zw","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:16:52  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:16:53  Вызван метод: crm.deal.get с параметрами: {"auth":"8h76lmrjnndsahfbq28izur0b4d64jtm","id":"6"} 
+10.05.17 13:16:54  Вызван метод: crm.deal.update с параметрами: {"auth":"8h76lmrjnndsahfbq28izur0b4d64jtm","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:16:55  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:16:56  Вызван метод: crm.deal.get с параметрами: {"auth":"3q22nveqvp7rngfa3qptivxa0ssf8sn0","id":"6"} 
+10.05.17 13:16:57  Вызван метод: crm.deal.update с параметрами: {"auth":"3q22nveqvp7rngfa3qptivxa0ssf8sn0","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:16:59  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:16:59  Вызван метод: crm.deal.get с параметрами: {"auth":"10j4l9rlqh3s0l5n8fdr28lrr09t4o7a","id":"6"} 
+10.05.17 13:17:01  Вызван метод: crm.deal.update с параметрами: {"auth":"10j4l9rlqh3s0l5n8fdr28lrr09t4o7a","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:18:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:18:22  Вызван метод: crm.deal.get с параметрами: {"auth":"kqa3obe69h9rps790o1deg6qrrz4osuv","id":"6"} 
+10.05.17 13:18:23  Вызван метод: crm.deal.update с параметрами: {"auth":"kqa3obe69h9rps790o1deg6qrrz4osuv","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:18:25  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:18:25  Вызван метод: crm.deal.get с параметрами: {"auth":"tz544i4jy13u4ge5sn4kriwx3ox3fekc","id":"6"} 
+10.05.17 13:18:26  Вызван метод: crm.deal.update с параметрами: {"auth":"tz544i4jy13u4ge5sn4kriwx3ox3fekc","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:18:28  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:18:28  Вызван метод: crm.deal.get с параметрами: {"auth":"egcse0luwosr27pbwp25gztlyv54pr65","id":"6"} 
+10.05.17 13:18:30  Вызван метод: crm.deal.update с параметрами: {"auth":"egcse0luwosr27pbwp25gztlyv54pr65","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:19:55  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:19:56  Вызван метод: crm.deal.get с параметрами: {"auth":"3iha5r4n684xeg1nvq2x1x1a0qhzgn0v","id":"6"} 
+10.05.17 13:19:58  Вызван метод: crm.deal.update с параметрами: {"auth":"3iha5r4n684xeg1nvq2x1x1a0qhzgn0v","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:19:59  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:20:00  Вызван метод: crm.deal.get с параметрами: {"auth":"zfs9gsvfwu9mm02gpa5guk55yxr57b6s","id":"6"} 
+10.05.17 13:20:02  Вызван метод: crm.deal.update с параметрами: {"auth":"zfs9gsvfwu9mm02gpa5guk55yxr57b6s","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:20:04  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:20:04  Вызван метод: crm.deal.get с параметрами: {"auth":"6ozdk8j83frpoplr1avfnzis01siby3f","id":"6"} 
+10.05.17 13:20:06  Вызван метод: crm.deal.update с параметрами: {"auth":"6ozdk8j83frpoplr1avfnzis01siby3f","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:20:32  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:20:33  Вызван метод: crm.deal.get с параметрами: {"auth":"yuoqjajcqi8jxujby8roli2sylptapey","id":"6"} 
+10.05.17 13:20:35  Вызван метод: crm.deal.update с параметрами: {"auth":"yuoqjajcqi8jxujby8roli2sylptapey","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:20:36  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:20:37  Вызван метод: crm.deal.get с параметрами: {"auth":"71ijowf9gu6ms0i7nzfgkjz112np3he0","id":"6"} 
+10.05.17 13:20:39  Вызван метод: crm.deal.update с параметрами: {"auth":"71ijowf9gu6ms0i7nzfgkjz112np3he0","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:20:40  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:20:41  Вызван метод: crm.deal.get с параметрами: {"auth":"ru51o73vitb210sybdraobmnw8452l4f","id":"6"} 
+10.05.17 13:20:42  Вызван метод: crm.deal.update с параметрами: {"auth":"ru51o73vitb210sybdraobmnw8452l4f","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:21:22  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:21:23  Вызван метод: crm.deal.get с параметрами: {"auth":"h1tuld2nppedf2yvdkmguhl00vo0fnw5","id":"6"} 
+10.05.17 13:21:24  Вызван метод: crm.deal.update с параметрами: {"auth":"h1tuld2nppedf2yvdkmguhl00vo0fnw5","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:21:26  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:21:27  Вызван метод: crm.deal.get с параметрами: {"auth":"yc30hh7hijmxh4n6745n40bxsm99m8s6","id":"6"} 
+10.05.17 13:21:28  Вызван метод: crm.deal.update с параметрами: {"auth":"yc30hh7hijmxh4n6745n40bxsm99m8s6","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:21:29  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:21:30  Вызван метод: crm.deal.get с параметрами: {"auth":"e3fztcm5lk9hc3en4qkj8covbrm134jl","id":"6"} 
+10.05.17 13:21:31  Вызван метод: crm.deal.update с параметрами: {"auth":"e3fztcm5lk9hc3en4qkj8covbrm134jl","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:22:14  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:15  Вызван метод: crm.deal.get с параметрами: {"auth":"d0qckihmb9dnoub5uhtnczbfs8zvngvq","id":"6"} 
+10.05.17 13:22:16  Вызван метод: crm.deal.update с параметрами: {"auth":"d0qckihmb9dnoub5uhtnczbfs8zvngvq","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:22:18  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:18  Вызван метод: crm.deal.get с параметрами: {"auth":"o4g7iqxbu3en9i44s3diw73nqnl93c3m","id":"6"} 
+10.05.17 13:22:20  Вызван метод: crm.deal.update с параметрами: {"auth":"o4g7iqxbu3en9i44s3diw73nqnl93c3m","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:22:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:22  Вызван метод: crm.deal.get с параметрами: {"auth":"6w0w1ssmt9xm5rmyl3jtgyvaxq8t8xuk","id":"6"} 
+10.05.17 13:22:23  Вызван метод: crm.deal.update с параметрами: {"auth":"6w0w1ssmt9xm5rmyl3jtgyvaxq8t8xuk","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:22:43  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:43  Вызван метод: crm.deal.get с параметрами: {"auth":"udibgjfvkx2yggoipb6igq6oj8wxipvg","id":"6"} 
+10.05.17 13:22:45  Вызван метод: crm.deal.update с параметрами: {"auth":"udibgjfvkx2yggoipb6igq6oj8wxipvg","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:22:46  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:47  Вызван метод: crm.deal.get с параметрами: {"auth":"cma9743gda45mgotmqinewx8w5ptjtrm","id":"6"} 
+10.05.17 13:22:48  Вызван метод: crm.deal.update с параметрами: {"auth":"cma9743gda45mgotmqinewx8w5ptjtrm","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:22:49  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:22:50  Вызван метод: crm.deal.get с параметрами: {"auth":"oqz4yxq9ctgubh75xs5bmtkk47mf5b1n","id":"6"} 
+10.05.17 13:22:52  Вызван метод: crm.deal.update с параметрами: {"auth":"oqz4yxq9ctgubh75xs5bmtkk47mf5b1n","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:23:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:21  Вызван метод: crm.deal.get с параметрами: {"auth":"k9tl881rgr7y91vkazf0kgsu123341o2","id":"6"} 
+10.05.17 13:23:22  Вызван метод: crm.deal.update с параметрами: {"auth":"k9tl881rgr7y91vkazf0kgsu123341o2","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:23:24  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:24  Вызван метод: crm.deal.get с параметрами: {"auth":"26zhb7z45la70246f2c72o07ldazec0y","id":"6"} 
+10.05.17 13:23:26  Вызван метод: crm.deal.update с параметрами: {"auth":"26zhb7z45la70246f2c72o07ldazec0y","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:23:27  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:28  Вызван метод: crm.deal.get с параметрами: {"auth":"6dkrcr074ultynfri2jnf9dyfqa2f26z","id":"6"} 
+10.05.17 13:23:29  Вызван метод: crm.deal.update с параметрами: {"auth":"6dkrcr074ultynfri2jnf9dyfqa2f26z","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:23:42  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:43  Вызван метод: crm.deal.get с параметрами: {"auth":"cwjb796s22u88f5kx4rsrh5yq04iuvkh","id":"6"} 
+10.05.17 13:23:44  Вызван метод: crm.deal.update с параметрами: {"auth":"cwjb796s22u88f5kx4rsrh5yq04iuvkh","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:23:46  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:46  Вызван метод: crm.deal.get с параметрами: {"auth":"vrf8weo09lxiti5g67ap2d7nfc13a85y","id":"6"} 
+10.05.17 13:23:47  Вызван метод: crm.deal.update с параметрами: {"auth":"vrf8weo09lxiti5g67ap2d7nfc13a85y","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:23:49  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:23:49  Вызван метод: crm.deal.get с параметрами: {"auth":"hioybyunbrrtl799fgsyv9covnchae9j","id":"6"} 
+10.05.17 13:23:51  Вызван метод: crm.deal.update с параметрами: {"auth":"hioybyunbrrtl799fgsyv9covnchae9j","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:24:24  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:24  Вызван метод: crm.deal.get с параметрами: {"auth":"frye7n0vml2dq7971snua469a5oo3wbr","id":"6"} 
+10.05.17 13:24:26  Вызван метод: crm.deal.update с параметрами: {"auth":"frye7n0vml2dq7971snua469a5oo3wbr","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:24:27  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:28  Вызван метод: crm.deal.get с параметрами: {"auth":"wskdf9bjtpjx4usqnp15jufynk89gped","id":"6"} 
+10.05.17 13:24:29  Вызван метод: crm.deal.update с параметрами: {"auth":"wskdf9bjtpjx4usqnp15jufynk89gped","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:24:31  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:31  Вызван метод: crm.deal.get с параметрами: {"auth":"sn8msfz3n65au77jprhmyxi3u0wpt8ol","id":"6"} 
+10.05.17 13:24:32  Вызван метод: crm.deal.update с параметрами: {"auth":"sn8msfz3n65au77jprhmyxi3u0wpt8ol","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:24:44  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:44  Вызван метод: crm.deal.get с параметрами: {"auth":"q00f10xm7iqlx9yl3of90bsh5cydx0ap","id":"6"} 
+10.05.17 13:24:47  Вызван метод: crm.deal.update с параметрами: {"auth":"q00f10xm7iqlx9yl3of90bsh5cydx0ap","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:24:48  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:49  Вызван метод: crm.deal.get с параметрами: {"auth":"4yp3q281oc5ioowoe6qb5so46b2n15fo","id":"6"} 
+10.05.17 13:24:50  Вызван метод: crm.deal.update с параметрами: {"auth":"4yp3q281oc5ioowoe6qb5so46b2n15fo","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:24:51  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:24:52  Вызван метод: crm.deal.get с параметрами: {"auth":"52l3fpsaxt3oude6jd4zpo33lpv9rnmw","id":"6"} 
+10.05.17 13:24:53  Вызван метод: crm.deal.update с параметрами: {"auth":"52l3fpsaxt3oude6jd4zpo33lpv9rnmw","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 15:41:48  Вызван метод: user.current с параметрами: {"auth":"5i446ea3p9jahz8k7e09z2uxdqiopj65"} 

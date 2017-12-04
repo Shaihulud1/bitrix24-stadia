@@ -1,0 +1,7 @@
+03.05.17 19:40:41 Вызван метод: user.current с параметрами: {"auth":"9ftr936qkuf6jhdcs2b1l69mwu1174ar"} 
+03.05.17 19:40:41 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"9ftr936qkuf6jhdcs2b1l69mwu1174ar"} 
+03.05.17 19:40:41 Вызван метод: user.get с параметрами: {"auth":"9ftr936qkuf6jhdcs2b1l69mwu1174ar"} 
+03.05.17 20:04:25 Вызван метод: user.current с параметрами: {"auth":"pd50id465g5hn6ug6gkazdvnrz7dylnv"} 
+03.05.17 20:04:25 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"pd50id465g5hn6ug6gkazdvnrz7dylnv"} 
+03.05.17 20:04:26 Вызван метод: user.get с параметрами: {"auth":"pd50id465g5hn6ug6gkazdvnrz7dylnv"} 
+03.05.17 20:04:26 Вызван метод: event.get с параметрами: {"auth":"pd50id465g5hn6ug6gkazdvnrz7dylnv"} 

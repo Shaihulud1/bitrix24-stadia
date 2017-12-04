@@ -1,0 +1,30 @@
+29.04.17 13:24:22 ОШИБКА:  Файл: /home/a0131446/domains/fishdayprod.ru/public_html/kilkawidgets/stadia/Classes/Db_work.php Строка: 27 Сообщение: SQLSTATE[HY000] [1045] Access denied for user 'u0176_DT'@'localhost' (using password: YES) 
+29.04.17 13:52:33 ОШИБКА:  Файл: /home/a0131446/domains/fishdayprod.ru/public_html/kilkawidgets/stadia/Classes/Db_work.php Строка: 27 Сообщение: SQLSTATE[HY000] [1045] Access denied for user 'u0176_DT'@'localhost' (using password: YES) 
+29.04.17 14:01:51 ОШИБКА:  Файл: /home/a0131446/domains/fishdayprod.ru/public_html/kilkawidgets/stadia/Classes/Db_work.php Строка: 27 Сообщение: SQLSTATE[HY000] [1045] Access denied for user 'u0176_DT'@'localhost' (using password: YES) 
+29.04.17 14:32:43 Вызван метод: user.current с параметрами: {"auth":"qj7h39eyz2fbq4um71ifq2sufeesfrb1"} 
+29.04.17 16:18:29 Вызван метод: user.current с параметрами: {"auth":"gcapka1yb0a9qo91bzgyu1t9srdxldey"} 
+29.04.17 16:18:30 Вызван метод: user.current с параметрами: {"auth":"140u0836rg2967apg57x9d1q8yxg02tf"} 
+29.04.17 16:19:25 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+29.04.17 16:19:26 Вызван метод: user.current с параметрами: {"auth":null} 
+29.04.17 16:19:29 Вызван метод: user.current с параметрами: {"auth":"itquild30fsazvod4r3i6wvbnwqhe9pv"} 
+29.04.17 16:19:58 Вызван метод: user.current с параметрами: {"auth":"rgooq9tclfn1asi7scctv610nlafn8qy"} 
+29.04.17 16:24:58 Вызван метод: user.current с параметрами: {"auth":"4ae07nong12s668bvgb2gdyhmycb5ufy"} 
+29.04.17 16:26:31 Вызван метод: user.current с параметрами: {"auth":"db62lhb43yfed7qc863dn40709qs8v6i"} 
+29.04.17 16:27:34 Вызван метод: user.current с параметрами: {"auth":"rj0iyec0d865zhtoocyrvrrm7swplk3t"} 
+29.04.17 16:28:43 Вызван метод: user.current с параметрами: {"auth":"ouaip7a9qyyca7btlv3rrdgsllwe5t31"} 
+29.04.17 16:29:38 Вызван метод: user.current с параметрами: {"auth":"l0fnzhpehbxdwulg1mi1cfzmpopmgm3e"} 
+29.04.17 16:29:59 Вызван метод: user.current с параметрами: {"auth":"cvrvemq35dp3x70hfy6lr1t7odqaz4yv"} 
+29.04.17 16:30:09 Вызван метод: user.current с параметрами: {"auth":"muzplf13aizi8hx5ophu4s3njsmg6kj9"} 
+29.04.17 16:31:46 Вызван метод: user.current с параметрами: {"auth":"48nygmo7mo1fb7j9bzrh6v3qwqu0pw8t"} 
+29.04.17 16:33:25 Вызван метод: user.current с параметрами: {"auth":"v2vbpu8tui7dwe4eihl7gp0r9n7dtp8q"} 
+29.04.17 16:44:00 Вызван метод: user.current с параметрами: {"auth":"jfpp2aanfmsg3fo9gmk5aby2roawp8az"} 
+29.04.17 16:45:41 Вызван метод: user.current с параметрами: {"auth":"3i8kmzrmr4imrgz0uk1ckgajgeilwraq"} 
+29.04.17 16:46:12 Вызван метод: user.current с параметрами: {"auth":"rs1l7rarxh7hml5zvz8w39w8un1s8l43"} 
+29.04.17 16:52:44 Вызван метод: user.current с параметрами: {"auth":"f3iydvkp6elqp9kj0435nsoqz6iv842t"} 
+29.04.17 16:54:51 Вызван метод: event.bind с параметрами: {"auth":"d6rbxno1w4qu5or1bxnp4nbwk5g1qxpl","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru"} 
+29.04.17 16:57:53 Вызван метод: event.get с параметрами: {"auth":"umm4tmj1c7ghubgvlyyq5algudd5zols"} 
+29.04.17 17:04:22 Вызван метод: event.bind с параметрами: {"auth":"nhk9pmw9ri3ww4nrxpdvxz0rjyq5on95","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/testGetDeal.php"} 
+29.04.17 17:04:50 Вызван метод: event.get с параметрами: {"auth":"o53if67rnlq1fk4gzh3n1gxgjf27tgzd"} 
+29.04.17 17:12:33 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+29.04.17 17:12:51 Вызван метод: event.unbind с параметрами: {"auth":"v51na2v6i9v2j67r4i7pe4bz32h0ldn9","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru"} 
+29.04.17 17:13:17 Вызван метод: event.get с параметрами: {"auth":"ao0oauj47bj4vavkprut0paofs4g2tor"} 

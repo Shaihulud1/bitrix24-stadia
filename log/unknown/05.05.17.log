@@ -1,0 +1,13 @@
+05.05.17 15:34:14 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+05.05.17 15:34:14 Вызван метод: crm.deal.get с параметрами: {"auth":"","id":""} 
+05.05.17 15:41:04 Вызван метод: user.current с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q"} 
+05.05.17 15:41:04 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q"} 
+05.05.17 15:41:05 Вызван метод: user.get с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q"} 
+05.05.17 15:42:28 Вызван метод: event.get с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q"} 
+05.05.17 15:42:30 Вызван метод: event.bind с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru\/stadia\/changeRespUser.php"} 
+05.05.17 15:42:31 Вызван метод: event.bind с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q","event":"onCrmDealUpdate","handler":"https:\/\/fishdayprod.ru\/stadia\/changeRespUser.php"} 
+05.05.17 15:42:31 Вызван метод: event.bind с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q","event":"OnAppUninstall","handler":"https:\/\/fishdayprod.ru\/stadia\/Uninstall.php"} 
+05.05.17 15:42:39 Вызван метод: event.get с параметрами: {"auth":"qfkmidz87yn4z8zhjjr62hapb4oct53q"} 
+05.05.17 15:42:40 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+05.05.17 15:42:41 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+05.05.17 15:42:41 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 

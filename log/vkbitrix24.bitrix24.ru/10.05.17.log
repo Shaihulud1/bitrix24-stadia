@@ -1,0 +1,62 @@
+10.05.17 13:25:17 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:25:18 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"w71nfb4b5h20swcmm5jzggv9lx90c2tl","id":"6"} 
+10.05.17 13:25:19 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"w71nfb4b5h20swcmm5jzggv9lx90c2tl","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:25:20 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:25:21 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"268cajxajvm60f8hq5p4c6fyntl9pead","id":"6"} 
+10.05.17 13:25:23 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"268cajxajvm60f8hq5p4c6fyntl9pead","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:25:24 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:25:25 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"xjt4simd6avsb76ppz5uxqwrf0yae11w","id":"6"} 
+10.05.17 13:25:27 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"xjt4simd6avsb76ppz5uxqwrf0yae11w","id":"6","fields":{"ASSIGNED_BY_ID":"8"}} 
+10.05.17 13:29:58 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:29:59 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"mmg4yjvnlb98lhiszzm2avhspukdad8k","id":"6"} 
+10.05.17 13:30:00 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"mmg4yjvnlb98lhiszzm2avhspukdad8k","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:30:37 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"vo81jf6o90m2n530vp3xa6v4a22u6l1v"} 
+10.05.17 13:30:38 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"vo81jf6o90m2n530vp3xa6v4a22u6l1v"} 
+10.05.17 13:30:38 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"vo81jf6o90m2n530vp3xa6v4a22u6l1v"} 
+10.05.17 13:32:57 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:32:57 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"mmg4yjvnlb98lhiszzm2avhspukdad8k","id":"6"} 
+10.05.17 13:32:58 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"mmg4yjvnlb98lhiszzm2avhspukdad8k","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:33:00 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:33:00 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"qils1kq20qoth7fahr85mhoyhv2kmtv0","id":"6"} 
+10.05.17 13:33:02 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"qils1kq20qoth7fahr85mhoyhv2kmtv0","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:33:03 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:33:04 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"3zsgvafeajeok732hi9tuuiitucbu9ig","id":"6"} 
+10.05.17 13:33:05 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"3zsgvafeajeok732hi9tuuiitucbu9ig","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:36:18 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:36:19 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"071rqekd1ae6u0hil3timlb3dxytn75s","id":"6"} 
+10.05.17 13:36:20 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"071rqekd1ae6u0hil3timlb3dxytn75s","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:36:22 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+10.05.17 13:36:22 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"1icz7460oyjh4rtie94rdqpso3w2beo4","id":"6"} 
+10.05.17 13:36:23 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"1icz7460oyjh4rtie94rdqpso3w2beo4","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+10.05.17 13:44:53 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"vo81jf6o90m2n530vp3xa6v4a22u6l1v"} 
+10.05.17 13:44:54 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:44:55 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:44:56 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:46:09 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"8w7bnj1nn8wd5gn1wbs16sxqxy226lc8"} 
+10.05.17 13:46:09 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"8w7bnj1nn8wd5gn1wbs16sxqxy226lc8"} 
+10.05.17 13:46:10 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"8w7bnj1nn8wd5gn1wbs16sxqxy226lc8"} 
+10.05.17 13:46:19 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"8w7bnj1nn8wd5gn1wbs16sxqxy226lc8"} 
+10.05.17 13:46:20 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:46:22 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:46:23 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+10.05.17 13:56:21 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"fk7cfsz50s2oz4ikw9g5ixxm6leq9amw"} 
+10.05.17 13:56:21 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"fk7cfsz50s2oz4ikw9g5ixxm6leq9amw"} 
+10.05.17 13:56:22 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"fk7cfsz50s2oz4ikw9g5ixxm6leq9amw"} 
+10.05.17 14:03:54 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+10.05.17 14:03:55 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"6t600308l3ogrfgo9leapr45ozo8yrjx"} 
+10.05.17 14:03:55 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+10.05.17 14:03:55 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"6t600308l3ogrfgo9leapr45ozo8yrjx"} 
+10.05.17 14:03:56 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+10.05.17 14:03:56 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"6t600308l3ogrfgo9leapr45ozo8yrjx"} 
+10.05.17 15:41:48 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"5i446ea3p9jahz8k7e09z2uxdqiopj65"} 
+10.05.17 15:41:49 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"5i446ea3p9jahz8k7e09z2uxdqiopj65"} 
+10.05.17 15:41:53 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys"} 
+10.05.17 15:41:54 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys"} 
+10.05.17 15:41:54 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys"} 
+10.05.17 15:42:13 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys"} 
+10.05.17 15:42:14 vkbitrix24@gmail.com Вызван метод: event.bind с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru\/stadia\/changeRespUser.php"} 
+10.05.17 15:42:15 vkbitrix24@gmail.com Вызван метод: event.bind с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys","event":"onCrmDealUpdate","handler":"https:\/\/fishdayprod.ru\/stadia\/changeRespUser.php"} 
+10.05.17 15:42:17 vkbitrix24@gmail.com Вызван метод: event.bind с параметрами: {"auth":"6v03eqce36llrhi0d8ycoyel4u98ysys","event":"OnAppUninstall","handler":"https:\/\/fishdayprod.ru\/stadia\/Uninstall.php"} 
+10.05.17 15:44:51 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"axgh96198xcgfa0s0j19yca0f9ietc0o"} 
+10.05.17 15:44:51 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"axgh96198xcgfa0s0j19yca0f9ietc0o"} 
+10.05.17 15:44:52 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"axgh96198xcgfa0s0j19yca0f9ietc0o"} 

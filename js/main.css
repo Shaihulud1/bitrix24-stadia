@@ -1,0 +1,252 @@
+body{
+	color: #5e6672;
+}
+.main-body{
+/*	display: none;*/
+}
+.login_body{
+	/*display: none;*/
+}
+.logo{
+	background-color: #2da4df;
+}
+.logo h1{
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+}
+.new-mess h2{
+	cursor: pointer;
+}
+.new-message-item {
+	height: 82px;
+	margin-bottom: 60px;
+	margin-top: 30px;
+	cursor: pointer;
+	position: relative;
+}
+.new-message-item p{
+	overflow: hidden;
+	height: 60px;
+}
+.pop{
+	position: absolute;
+	top: 82px;
+	left: -86px;
+	z-index: 10;
+	display: none;
+}
+.new-message-item img{
+	float:left;
+	width: 82px;
+	height: 82px;
+	margin-right: 17px;
+}
+.old-mess-box{
+	display: none;
+}
+.old-mess h2{
+	cursor: pointer;
+}
+.old-message-item {
+	height: 82px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	cursor: pointer;
+	position: relative;
+}
+.new-message-item p{
+	overflow: hidden;
+	height: 60px;
+}
+.old-message-item img{
+	float:left;
+	width: 80px;
+	height: 80px;
+	margin-right: 17px;
+}
+.ava{
+	margin-left: 35px;
+}
+.ava img{
+	height: 200px;
+	width: 200px;
+}
+.ava .rewiew{
+	width: 148px;
+	height: 47px;
+}
+.ava .declane{
+	width: 148px;
+	height: 25px;
+}
+.choosen{
+	background-color: #bee5f3;
+}
+.bitsend{
+	background-color: #2da4df;
+	position: absolute;
+	z-index: 20;
+	width: 100%;
+	height: 50px;
+	bottom: 0px;
+	text-align: center;
+	position: fixed;
+	display: none;
+}
+.login_body form{
+	text-align: center;
+	margin-top: 130px;
+}
+.more-mess{
+	text-align: center;
+}
+.me{
+	background-color: #fdf9e5;
+}
+.tab-history-control{
+	display: none;
+}
+.progress{
+	right: 5%;
+	width: 350px;
+	z-index: 110;
+	bottom: 16%;
+	position: absolute;
+}
+
+#confirmBox{
+	width:460px;
+	position:fixed;
+	left:50%;
+	top:50%;
+	margin:-130px 0 0 -230px;
+	border: 1px solid rgba(33, 33, 33, 0.6);
+	background-color: #fff;
+	z-index: 1001;
+}
+
+#confirmBox h1,
+#confirmBox p{
+	padding: 18px 25px;
+	text-align: center;
+}
+
+#confirmBox h1{
+	color:#FFF;
+	background-color: #2DA4DF;
+	margin-top: 0px;
+}
+
+#confirmBox p{
+	background:none;
+	font-size:16px;
+	line-height:1.4;
+	padding-top: 35px;
+}
+
+#confirmButtons{
+	padding:15px 0 25px;
+	text-align:center;
+}
+
+#confirmBox .button{
+	margin-right: 15px;
+	padding: 0 35px 0 40px;
+}
+
+#confirmBox .button:last-child{	margin-right:0;}
+
+#confirmBox .button span{
+	position:absolute;
+	top:0;
+	right:-5px;
+	width:5px;
+	height:33px;
+}
+.modal-box{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    opacity: 0.5;
+    background-color:#000;
+    cursor: pointer;
+
+}
+.modal{
+	display: none;
+}
+.downloadBox{
+	width: 23px;
+	position: fixed;
+	left: 42%;
+	top: 43%;
+	z-index: 1001;
+}
+.downloadBox img{
+	width: 110px;
+	height: 80px;
+}
+
+.deals{
+	text-align: center;
+	margin-top: 30px;
+}
+.deal-item{
+	margin-bottom: 20px;
+}
+.dropdown-menu{
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+.arrow_down img{
+	height: 40px;
+	margin-bottom: 20px;
+}
+
+.choose_worker{
+	background-color: #da9309;
+	border:none;
+}
+.WON{
+	margin-bottom: 70px;
+}
+.LOSE .choose_worker{
+	background-color: rgb(209, 69, 69);
+}
+.APOLOGY .choose_worker{
+	background-color: rgb(209, 69, 69);
+}
+
+
+.modal-box{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    opacity: 0.5;
+    background-color:#000;
+    cursor: pointer;
+
+}
+.modal{
+	display: none;
+}
+.downloadBox{
+	width: 23px;
+	position: fixed;
+	left: 42%;
+	top: 43%;
+	z-index: 1001;
+}
+.downloadBox img{
+	width: 110px;
+	height: 80px;
+}

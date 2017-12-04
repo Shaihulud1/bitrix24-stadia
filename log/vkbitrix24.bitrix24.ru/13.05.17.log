@@ -1,0 +1,6 @@
+13.05.17 17:12:38 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"f05n2ygiqdcukmb3ez7wvkj55i0nz3tz"} 
+13.05.17 17:12:39 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"f05n2ygiqdcukmb3ez7wvkj55i0nz3tz"} 
+13.05.17 17:12:52 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"f05n2ygiqdcukmb3ez7wvkj55i0nz3tz"} 
+13.05.17 17:12:53 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+13.05.17 17:12:54 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+13.05.17 17:12:55 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 

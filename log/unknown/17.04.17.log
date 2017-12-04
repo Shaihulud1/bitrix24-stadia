@@ -1,0 +1,1 @@
+17.04.17 01:27:19 ОШИБКА:  Файл: /home/a0131446/domains/fishdayprod.ru/public_html/kilkawidgets/stadia/Classes/Db_work.php Строка: 27 Сообщение: SQLSTATE[HY000] [1045] Access denied for user 'u0176_DT'@'localhost' (using password: YES) 

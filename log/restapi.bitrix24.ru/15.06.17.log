@@ -1,0 +1,2 @@
+15.06.17 19:53:51 sv@bitrix.ru Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"htvspmq0ntgytut5hvz3ijx8bsyjgpc5"} 
+15.06.17 19:53:52 sv@bitrix.ru Вызван метод: user.get с параметрами: {"auth":"htvspmq0ntgytut5hvz3ijx8bsyjgpc5","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 

@@ -1,0 +1,2 @@
+21.07.17 15:55:41  ОШИБКА: invalid_grant() 
+21.07.17 15:55:42  Вызван метод: user.current с параметрами: {"auth":"k6yz3d4d7sndpmktrzzd213l26fob32u"} 

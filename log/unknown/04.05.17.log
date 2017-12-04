@@ -1,0 +1,263 @@
+04.05.17 09:13:38 Вызван метод: user.current с параметрами: {"auth":"up7miwnygttoy7lnndzcb5745yy4ztsm"} 
+04.05.17 09:13:39 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"up7miwnygttoy7lnndzcb5745yy4ztsm"} 
+04.05.17 09:13:39 Вызван метод: user.get с параметрами: {"auth":"up7miwnygttoy7lnndzcb5745yy4ztsm"} 
+04.05.17 09:14:46 Вызван метод: user.current с параметрами: {"auth":"ay0na2vf49gojitz4j1tt3gb0xpt5lpw"} 
+04.05.17 09:14:46 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"ay0na2vf49gojitz4j1tt3gb0xpt5lpw"} 
+04.05.17 09:14:47 Вызван метод: user.get с параметрами: {"auth":"ay0na2vf49gojitz4j1tt3gb0xpt5lpw"} 
+04.05.17 09:14:47 Вызван метод: event.get с параметрами: {"auth":"ay0na2vf49gojitz4j1tt3gb0xpt5lpw"} 
+04.05.17 09:16:00 Вызван метод: user.current с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s"} 
+04.05.17 09:16:00 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s"} 
+04.05.17 09:16:01 Вызван метод: user.get с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s"} 
+04.05.17 09:16:01 Вызван метод: event.unbind с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s","event":"onCrmDealUpdate","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/testGetDeal.php"} 
+04.05.17 09:16:02 Вызван метод: event.unbind с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/testGetDeal.php"} 
+04.05.17 09:16:03 Вызван метод: event.get с параметрами: {"auth":"bbbzvanvqsf200l5o1ubwxh0d2p5r82s"} 
+04.05.17 09:16:29 Вызван метод: user.current с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw"} 
+04.05.17 09:16:29 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw"} 
+04.05.17 09:16:30 Вызван метод: user.get с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw"} 
+04.05.17 09:16:30 Вызван метод: event.get с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw"} 
+04.05.17 09:16:38 Вызван метод: event.get с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw"} 
+04.05.17 09:16:40 Вызван метод: event.bind с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw","event":"onCrmDealAdd","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/testGetDeal.php"} 
+04.05.17 09:16:41 Вызван метод: event.bind с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw","event":"onCrmDealUpdate","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/testGetDeal.php"} 
+04.05.17 09:16:42 Вызван метод: event.bind с параметрами: {"auth":"1hwk53k659932252nis5hmr3n3r69nyw","event":"OnAppUninstall","handler":"https:\/\/fishdayprod.ru\/kilkawidgets\/stadia\/Uninstall.php"} 
+04.05.17 09:16:47 Вызван метод: user.current с параметрами: {"auth":"a3nx5zru639thhqvdkq1kqq0weha0ok9"} 
+04.05.17 09:16:47 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"a3nx5zru639thhqvdkq1kqq0weha0ok9"} 
+04.05.17 09:16:48 Вызван метод: user.get с параметрами: {"auth":"a3nx5zru639thhqvdkq1kqq0weha0ok9"} 
+04.05.17 09:16:48 Вызван метод: event.get с параметрами: {"auth":"a3nx5zru639thhqvdkq1kqq0weha0ok9"} 
+04.05.17 09:17:48 Вызван метод: user.current с параметрами: {"auth":"i9xo1x7fjcc41umsak99tk929u06m4e7"} 
+04.05.17 09:17:49 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"i9xo1x7fjcc41umsak99tk929u06m4e7"} 
+04.05.17 09:17:49 Вызван метод: user.get с параметрами: {"auth":"i9xo1x7fjcc41umsak99tk929u06m4e7"} 
+04.05.17 13:14:20 Вызван метод: user.current с параметрами: {"auth":"l02rxixbmvt03adcgc7uwodwi2d3x57d"} 
+04.05.17 13:14:21 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"l02rxixbmvt03adcgc7uwodwi2d3x57d"} 
+04.05.17 13:14:21 Вызван метод: user.get с параметрами: {"auth":"l02rxixbmvt03adcgc7uwodwi2d3x57d"} 
+04.05.17 15:03:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:03:58 Вызван метод: crm.deal.get с параметрами: {"auth":"k7toh29zlqs425jb4ieppvmt3lzymhd0","id":"6"} 
+04.05.17 15:03:59 Вызван метод: crm.deal.update с параметрами: {"auth":"k7toh29zlqs425jb4ieppvmt3lzymhd0","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:04:01 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:04:01 Вызван метод: crm.deal.get с параметрами: {"auth":"3n2om06akj04sn1dnfraljr5p7e9uxr3","id":"6"} 
+04.05.17 15:04:03 Вызван метод: crm.deal.update с параметрами: {"auth":"3n2om06akj04sn1dnfraljr5p7e9uxr3","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:04:04 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:04:05 Вызван метод: crm.deal.get с параметрами: {"auth":"jsfcl0lgzz77feyu7dkxgalp05n961dk","id":"6"} 
+04.05.17 15:04:06 Вызван метод: crm.deal.update с параметрами: {"auth":"jsfcl0lgzz77feyu7dkxgalp05n961dk","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:04:14 Вызван метод: user.current с параметрами: {"auth":"sg2ua0mtvbz04s5m4rwf3nx94a1td3pk"} 
+04.05.17 15:04:15 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"sg2ua0mtvbz04s5m4rwf3nx94a1td3pk"} 
+04.05.17 15:04:15 Вызван метод: user.get с параметрами: {"auth":"sg2ua0mtvbz04s5m4rwf3nx94a1td3pk"} 
+04.05.17 15:08:49 Вызван метод: user.current с параметрами: {"auth":"rmkoj1zqaxlctf3cdam4en1c9ksyjz65"} 
+04.05.17 15:08:50 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"rmkoj1zqaxlctf3cdam4en1c9ksyjz65"} 
+04.05.17 15:08:50 Вызван метод: user.get с параметрами: {"auth":"rmkoj1zqaxlctf3cdam4en1c9ksyjz65"} 
+04.05.17 15:10:01 Вызван метод: user.current с параметрами: {"auth":"4aq7qd0hkl4zhw1a2c3b1h866vmi14tw"} 
+04.05.17 15:10:02 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"4aq7qd0hkl4zhw1a2c3b1h866vmi14tw"} 
+04.05.17 15:10:02 Вызван метод: user.get с параметрами: {"auth":"4aq7qd0hkl4zhw1a2c3b1h866vmi14tw"} 
+04.05.17 15:10:34 Вызван метод: user.current с параметрами: {"auth":"uy06696bftipuzydpjax1amsvjy9zvb5"} 
+04.05.17 15:10:35 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"uy06696bftipuzydpjax1amsvjy9zvb5"} 
+04.05.17 15:10:35 Вызван метод: user.get с параметрами: {"auth":"uy06696bftipuzydpjax1amsvjy9zvb5"} 
+04.05.17 15:11:04 Вызван метод: user.current с параметрами: {"auth":"frpzj5ymq2gxr5zjop21jxcwtjbsqypd"} 
+04.05.17 15:11:04 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"frpzj5ymq2gxr5zjop21jxcwtjbsqypd"} 
+04.05.17 15:11:04 Вызван метод: user.get с параметрами: {"auth":"frpzj5ymq2gxr5zjop21jxcwtjbsqypd"} 
+04.05.17 15:11:24 Вызван метод: user.current с параметрами: {"auth":"utu34ek3clcefyybq69uke8n77445srh"} 
+04.05.17 15:11:24 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"utu34ek3clcefyybq69uke8n77445srh"} 
+04.05.17 15:11:24 Вызван метод: user.get с параметрами: {"auth":"utu34ek3clcefyybq69uke8n77445srh"} 
+04.05.17 15:11:47 Вызван метод: event.get с параметрами: {"auth":"utu34ek3clcefyybq69uke8n77445srh"} 
+04.05.17 15:11:48 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:49 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:50 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:51 Вызван метод: event.get с параметрами: {"auth":"utu34ek3clcefyybq69uke8n77445srh"} 
+04.05.17 15:11:52 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:53 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:54 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:11:56 Вызван метод: user.current с параметрами: {"auth":"1ocecfryq9lnyhb1v1or017iomeq3515"} 
+04.05.17 15:11:56 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"1ocecfryq9lnyhb1v1or017iomeq3515"} 
+04.05.17 15:11:57 Вызван метод: user.get с параметрами: {"auth":"1ocecfryq9lnyhb1v1or017iomeq3515"} 
+04.05.17 15:12:05 Вызван метод: user.current с параметрами: {"auth":"n7my0s3b43ny7c7z94bst3oey7cwwzgj"} 
+04.05.17 15:12:05 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"n7my0s3b43ny7c7z94bst3oey7cwwzgj"} 
+04.05.17 15:12:06 Вызван метод: user.get с параметрами: {"auth":"n7my0s3b43ny7c7z94bst3oey7cwwzgj"} 
+04.05.17 15:12:30 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:12:31 Вызван метод: crm.deal.get с параметрами: {"auth":"tieem160bxxxfaiknqe7109vcy0yrcsb","id":"6"} 
+04.05.17 15:12:39 Вызван метод: user.current с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:12:40 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:12:40 Вызван метод: user.get с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:14:33 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:14:34 Вызван метод: crm.deal.get с параметрами: {"auth":"ad9hoojzcg05wp1a6pcb1j9236eqk6lu","id":"6"} 
+04.05.17 15:14:42 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:14:43 Вызван метод: crm.deal.get с параметрами: {"auth":"3ldeurvuehgbi4jm9htg0zwn31z9xfcv","id":"6"} 
+04.05.17 15:14:52 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:14:53 Вызван метод: crm.deal.get с параметрами: {"auth":"ujrawvu56aftjzfterr5hmdym7ybslgy","id":"6"} 
+04.05.17 15:14:59 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:00 Вызван метод: crm.deal.get с параметрами: {"auth":"lanr4rj07d6b2rrx8wvdau7sidq15xh8","id":"6"} 
+04.05.17 15:15:18 Вызван метод: event.get с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:15:19 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:20 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:31 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:32 Вызван метод: crm.deal.get с параметрами: {"auth":"t8sf19rxop51aju08t9m6s6bik3xj1u5","id":"6"} 
+04.05.17 15:15:34 Вызван метод: crm.deal.update с параметрами: {"auth":"t8sf19rxop51aju08t9m6s6bik3xj1u5","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:15:35 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:36 Вызван метод: crm.deal.get с параметрами: {"auth":"vgail7pmocdz4p8uez4qnz0c8n6y5cwy","id":"6"} 
+04.05.17 15:15:37 Вызван метод: crm.deal.update с параметрами: {"auth":"vgail7pmocdz4p8uez4qnz0c8n6y5cwy","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:15:38 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:38 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:39 Вызван метод: crm.deal.get с параметрами: {"auth":"1nodv7lllfoabg0o9ikzikqjw1z6dk83","id":"6"} 
+04.05.17 15:15:39 Вызван метод: crm.deal.get с параметрами: {"auth":"f0dov2q3rcucxd42s8civxpgvrqgqdjp","id":"6"} 
+04.05.17 15:15:47 Вызван метод: event.get с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:15:48 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:49 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:51 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:15:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:15:58 Вызван метод: crm.deal.get с параметрами: {"auth":"2kgkcpkzv7km5h1ynj5bw6zykvw14mai","id":"6"} 
+04.05.17 15:15:59 Вызван метод: crm.deal.update с параметрами: {"auth":"2kgkcpkzv7km5h1ynj5bw6zykvw14mai","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+04.05.17 15:16:00 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:16:01 Вызван метод: crm.deal.get с параметрами: {"auth":"lgbxx40h6p7e3y0et93zmhrhu2sfzgt2","id":"6"} 
+04.05.17 15:16:02 Вызван метод: crm.deal.update с параметрами: {"auth":"lgbxx40h6p7e3y0et93zmhrhu2sfzgt2","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+04.05.17 15:16:04 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:16:05 Вызван метод: crm.deal.get с параметрами: {"auth":"mdxtmzvscm3zzec3d8q60urzvxnboj16","id":"6"} 
+04.05.17 15:16:06 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:16:06 Вызван метод: crm.deal.get с параметрами: {"auth":"r2t9c1n4md2z2dyfxa5idyg5226jxcke","id":"6"} 
+04.05.17 15:16:10 Вызван метод: event.get с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:16:12 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:16:13 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:16:14 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:17:19 Вызван метод: event.get с параметрами: {"auth":"a7mh1noqujcvtju07ljrwcyns5msv7pz"} 
+04.05.17 15:17:20 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:17:21 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:17:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:21:12 Вызван метод: user.current с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:21:12 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:21:13 Вызван метод: user.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:22:08 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:22:09 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:22:10 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:22:11 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:22:15 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:22:16 Вызван метод: crm.deal.get с параметрами: {"auth":"gcjdkanmec88byh0xhlatat0gkddzyww","id":"6"} 
+04.05.17 15:22:17 Вызван метод: crm.deal.update с параметрами: {"auth":"gcjdkanmec88byh0xhlatat0gkddzyww","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:22:19 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:22:19 Вызван метод: crm.deal.get с параметрами: {"auth":"7kfdcf4cy2lngk3vitq0g91gzclwk0zc","id":"6"} 
+04.05.17 15:22:20 Вызван метод: crm.deal.update с параметрами: {"auth":"7kfdcf4cy2lngk3vitq0g91gzclwk0zc","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:22:22 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:22:22 Вызван метод: crm.deal.get с параметрами: {"auth":"1lox0n4yupv8gjo2nf0c5vglno5ltk24","id":"6"} 
+04.05.17 15:22:24 Вызван метод: crm.deal.update с параметрами: {"auth":"1lox0n4yupv8gjo2nf0c5vglno5ltk24","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:25:36 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:25:37 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:25:38 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:25:39 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:25:44 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:25:45 Вызван метод: crm.deal.get с параметрами: {"auth":"1kucllnucopkcycx9gx3a65ig2c9hvfe","id":"6"} 
+04.05.17 15:25:50 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:25:51 Вызван метод: crm.deal.get с параметрами: {"auth":"qi34a2hshzn7oz9zqbquyczsdksx8bhh","id":"6"} 
+04.05.17 15:26:40 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:26:41 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:26:42 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:26:43 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:26:49 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:26:50 Вызван метод: crm.deal.get с параметрами: {"auth":"8u5zcww73icm6c7zzf8d5mxyq2shy8rw","id":"6"} 
+04.05.17 15:26:53 Вызван метод: crm.deal.update с параметрами: {"auth":"8u5zcww73icm6c7zzf8d5mxyq2shy8rw","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:26:55 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:26:55 Вызван метод: crm.deal.get с параметрами: {"auth":"5swglbqksducyhu1ta8movx0gan658ov","id":"6"} 
+04.05.17 15:26:57 Вызван метод: crm.deal.update с параметрами: {"auth":"5swglbqksducyhu1ta8movx0gan658ov","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:26:58 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:26:59 Вызван метод: crm.deal.get с параметрами: {"auth":"o2r1nrhst1pnr3t6nixixwwhfnsxw6t8","id":"6"} 
+04.05.17 15:27:00 Вызван метод: crm.deal.update с параметрами: {"auth":"o2r1nrhst1pnr3t6nixixwwhfnsxw6t8","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:27:20 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:27:21 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:27:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:27:23 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:28:06 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:28:07 Вызван метод: crm.deal.get с параметрами: {"auth":"jjqcqfo7oh8d09vct0294aay4zqnhcpc","id":"6"} 
+04.05.17 15:28:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:28:11 Вызван метод: crm.deal.get с параметрами: {"auth":"8a2o9htx3b9r0sbrdombzxwb262ksimu","id":"6"} 
+04.05.17 15:29:09 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:29:10 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:29:11 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:29:13 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:29:22 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:29:22 Вызван метод: crm.deal.get с параметрами: {"auth":"m43oqzo5m7r741q0h18x2kso3ig9g1on","id":"6"} 
+04.05.17 15:29:23 Вызван метод: crm.deal.update с параметрами: {"auth":"m43oqzo5m7r741q0h18x2kso3ig9g1on","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:29:25 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:29:25 Вызван метод: crm.deal.get с параметрами: {"auth":"9gkirzb90xlvg4qkxm0xx0noiz9x5xt5","id":"6"} 
+04.05.17 15:29:27 Вызван метод: crm.deal.update с параметрами: {"auth":"9gkirzb90xlvg4qkxm0xx0noiz9x5xt5","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:29:28 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:29:30 Вызван метод: crm.deal.get с параметрами: {"auth":"cnzi3uqqt17la7dnjezdso57ff4bfkwb","id":"6"} 
+04.05.17 15:29:31 Вызван метод: crm.deal.update с параметрами: {"auth":"cnzi3uqqt17la7dnjezdso57ff4bfkwb","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:31:19 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:31:20 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:31:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:31:23 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:31:23 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:31:24 Вызван метод: crm.deal.get с параметрами: {"auth":"5xlbf0qsowrenu336whyljtoynh6lt25","id":"6"} 
+04.05.17 15:31:32 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:31:33 Вызван метод: crm.deal.get с параметрами: {"auth":"lktpjtskz3mzoj1adikul3oe70fgtagj","id":"6"} 
+04.05.17 15:32:19 Вызван метод: event.get с параметрами: {"auth":"6t15crcs0fu2qcjovc08110pg5zquuk2"} 
+04.05.17 15:32:20 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:32:21 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:32:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:32:29 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:32:30 Вызван метод: crm.deal.get с параметрами: {"auth":"a0vcx36hqju12ihen4jbgdzy1zgzsioh","id":"6"} 
+04.05.17 15:32:32 Вызван метод: crm.deal.update с параметрами: {"auth":"a0vcx36hqju12ihen4jbgdzy1zgzsioh","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:32:33 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:32:34 Вызван метод: crm.deal.get с параметрами: {"auth":"zimbmarmozp4er5zbzbldkp7rm2a1n2n","id":"6"} 
+04.05.17 15:32:35 Вызван метод: crm.deal.update с параметрами: {"auth":"zimbmarmozp4er5zbzbldkp7rm2a1n2n","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:32:36 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:32:37 Вызван метод: crm.deal.get с параметрами: {"auth":"vankle01tpxccjx0015j4qht7430xusp","id":"6"} 
+04.05.17 15:32:38 Вызван метод: crm.deal.update с параметрами: {"auth":"vankle01tpxccjx0015j4qht7430xusp","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:37:40 Вызван метод: user.current с параметрами: {"auth":"0mr39kyzow7a47ovkx6f0fbn2k93dcva"} 
+04.05.17 15:37:40 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"0mr39kyzow7a47ovkx6f0fbn2k93dcva"} 
+04.05.17 15:37:41 Вызван метод: user.get с параметрами: {"auth":"0mr39kyzow7a47ovkx6f0fbn2k93dcva"} 
+04.05.17 15:38:08 Вызван метод: user.current с параметрами: {"auth":"a4jsi84sgwe3l6b3tdt5y2zirb6pqvkh"} 
+04.05.17 15:38:09 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"a4jsi84sgwe3l6b3tdt5y2zirb6pqvkh"} 
+04.05.17 15:38:09 Вызван метод: user.get с параметрами: {"auth":"a4jsi84sgwe3l6b3tdt5y2zirb6pqvkh"} 
+04.05.17 15:38:16 Вызван метод: event.get с параметрами: {"auth":"a4jsi84sgwe3l6b3tdt5y2zirb6pqvkh"} 
+04.05.17 15:38:17 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:38:18 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:38:19 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:39:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:39:10 Вызван метод: crm.deal.get с параметрами: {"auth":"0s9sg2juw1gynjf2akv24k4lov4fb245","id":"6"} 
+04.05.17 15:39:29 Вызван метод: user.current с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:39:30 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:39:30 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:39:30 Вызван метод: user.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:39:31 Вызван метод: crm.deal.get с параметрами: {"auth":"yycddorc4wvy69k98wt1y9amp9l045sh","id":"6"} 
+04.05.17 15:41:35 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:41:36 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:41:37 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:41:38 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:41:48 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:41:49 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:41:50 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:41:51 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:43:38 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:43:39 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:43:40 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:43:42 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:43:51 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:43:51 Вызван метод: crm.deal.get с параметрами: {"auth":"fdmoavkv001we6m03v0v7ocordeey9ct","id":"6"} 
+04.05.17 15:43:53 Вызван метод: crm.deal.update с параметрами: {"auth":"fdmoavkv001we6m03v0v7ocordeey9ct","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:43:54 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:43:54 Вызван метод: crm.deal.get с параметрами: {"auth":"1nilvvw0655qr6hurtts4bklxqmmwtoe","id":"6"} 
+04.05.17 15:43:56 Вызван метод: crm.deal.update с параметрами: {"auth":"1nilvvw0655qr6hurtts4bklxqmmwtoe","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:43:58 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:43:58 Вызван метод: crm.deal.get с параметрами: {"auth":"170tzh94f7ks6i2dac234jz6yaw9s2rg","id":"6"} 
+04.05.17 15:43:59 Вызван метод: crm.deal.update с параметрами: {"auth":"170tzh94f7ks6i2dac234jz6yaw9s2rg","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:44:45 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:44:46 Вызван метод: crm.deal.get с параметрами: {"auth":"8misrv3vrh6k77kxlh777c1yvha2bk59","id":"6"} 
+04.05.17 15:44:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:44:58 Вызван метод: crm.deal.get с параметрами: {"auth":"wg4r06ugx705po2qkna2fv7rv3tq1hj9","id":"6"} 
+04.05.17 15:45:02 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:45:03 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:45:04 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:45:05 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:45:51 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:45:52 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:45:53 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:45:55 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:46:01 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:46:02 Вызван метод: crm.deal.get с параметрами: {"auth":"wmmisja6ao02lye0dqih1snzrx7in6jr","id":"6"} 
+04.05.17 15:46:04 Вызван метод: crm.deal.update с параметрами: {"auth":"wmmisja6ao02lye0dqih1snzrx7in6jr","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:46:05 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:46:06 Вызван метод: crm.deal.get с параметрами: {"auth":"nz4xw5808d2w2e48d9vpoyjmtw0lmp9j","id":"6"} 
+04.05.17 15:46:07 Вызван метод: crm.deal.update с параметрами: {"auth":"nz4xw5808d2w2e48d9vpoyjmtw0lmp9j","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:46:09 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.05.17 15:46:10 Вызван метод: crm.deal.get с параметрами: {"auth":"hmksp6s0jon5w51vql54q80gkiuavhy3","id":"6"} 
+04.05.17 15:46:11 Вызван метод: crm.deal.update с параметрами: {"auth":"hmksp6s0jon5w51vql54q80gkiuavhy3","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+04.05.17 15:46:22 Вызван метод: event.get с параметрами: {"auth":"fs0xahs57bsxk8mzlclc2qmu53rfbix3"} 
+04.05.17 15:46:24 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:46:25 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+04.05.17 15:46:26 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 

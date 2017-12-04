@@ -1,0 +1,14 @@
+06.07.17 12:57:18 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"g3ei4gr76nba6z4uiuue56awkzvfm3bt"} 
+06.07.17 12:57:18 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+06.07.17 12:57:18 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+06.07.17 12:57:19 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"g3ei4gr76nba6z4uiuue56awkzvfm3bt","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+06.07.17 12:57:19 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"g3ei4gr76nba6z4uiuue56awkzvfm3bt","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+06.07.17 12:57:19 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"g3ei4gr76nba6z4uiuue56awkzvfm3bt"} 
+06.07.17 12:58:56 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+06.07.17 12:58:56 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"5jk6263tc4qcvnjdqts72jsph31snydg"} 
+06.07.17 12:58:56 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"5jk6263tc4qcvnjdqts72jsph31snydg"} 
+06.07.17 12:58:57 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+06.07.17 12:58:57 vkbitrix24@gmail.com ОШИБКА: invalid_grant() 
+06.07.17 12:58:57 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"5jk6263tc4qcvnjdqts72jsph31snydg","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+06.07.17 12:58:57 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"5jk6263tc4qcvnjdqts72jsph31snydg","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+06.07.17 12:58:57 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"5jk6263tc4qcvnjdqts72jsph31snydg"} 

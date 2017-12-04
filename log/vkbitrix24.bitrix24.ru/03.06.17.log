@@ -1,0 +1,124 @@
+03.06.17 07:47:33 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 07:47:33 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+03.06.17 07:47:48 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 07:47:49 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:47:50 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:47:51 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:07 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 07:48:08 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:09 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:10 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:31 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 07:48:32 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:33 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:35 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 07:48:39 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 07:48:40 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"oldai000qoue9yq416op104f8n93hfgb","id":"6"} 
+03.06.17 07:48:41 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"oldai000qoue9yq416op104f8n93hfgb","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 07:48:42 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 07:48:43 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"9j422g0paq3o4ea20w3ya2d38r37v96h","id":"6"} 
+03.06.17 07:48:44 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"9j422g0paq3o4ea20w3ya2d38r37v96h","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 07:48:45 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 07:48:46 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"qemds5gco914qmv8i432iekalew24sj7","id":"6"} 
+03.06.17 07:48:47 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"qemds5gco914qmv8i432iekalew24sj7","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:11:18 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:11:19 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"jo5wjphufzndbhm2g8qwi2w5w9e33e10","id":"6"} 
+03.06.17 08:11:20 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"jo5wjphufzndbhm2g8qwi2w5w9e33e10","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:11:21 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:11:21 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"etlxwetcp9ryq6an16pe9uv1tb8k5ybq","id":"6"} 
+03.06.17 08:11:23 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"etlxwetcp9ryq6an16pe9uv1tb8k5ybq","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:11:24 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:11:24 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"wz425gjzwrpiekq0j3cucrbzgahskclv","id":"6"} 
+03.06.17 08:11:26 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"wz425gjzwrpiekq0j3cucrbzgahskclv","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:11:36 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:11:37 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:38 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:39 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:41 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:11:42 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:44 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:45 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:11:50 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:11:50 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"u32zi7fkre14o2v5dacbq7tea93rhdcp","id":"6"} 
+03.06.17 08:18:25 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:18:26 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:18:28 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:18:29 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:20:20 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:20:21 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:20:22 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:20:23 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:20:36 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:20:38 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"fvo12kaz730lo1l7awonsyza7aonnk5t","id":"6"} 
+03.06.17 08:20:39 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"fvo12kaz730lo1l7awonsyza7aonnk5t","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:20:40 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:20:40 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"620k4c9rq10y2x80a0duebf8i1lmgv1k","id":"6"} 
+03.06.17 08:20:42 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"620k4c9rq10y2x80a0duebf8i1lmgv1k","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:20:43 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:20:44 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"lo6lm6owgu8u9xi0vh2bo5yqh2w2gif2","id":"6"} 
+03.06.17 08:20:45 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"lo6lm6owgu8u9xi0vh2bo5yqh2w2gif2","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:23:32 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:33 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"dyxj1onkynk3z0hpbz8tzh3ano34jyot","id":"6"} 
+03.06.17 08:23:36 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:23:37 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:23:38 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:23:39 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:23:47 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:48 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"x3x0hgk6x55zu36esmc6slyu129nzg94","id":"6"} 
+03.06.17 08:23:48 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:49 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"x3x0hgk6x55zu36esmc6slyu129nzg94","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:49 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"bz1sc4ywl9sw8wyom9vwampjg29nokxh","id":"6"} 
+03.06.17 08:23:50 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:50 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"bz1sc4ywl9sw8wyom9vwampjg29nokxh","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:51 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"ifctaeq1d0epn222lisn14u8g0k127bp","id":"6"} 
+03.06.17 08:23:51 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:52 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"ifctaeq1d0epn222lisn14u8g0k127bp","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:52 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"ruj4ti0avtjxxv3p808b0v1b6ak9a3kv","id":"6"} 
+03.06.17 08:23:53 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:53 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"ruj4ti0avtjxxv3p808b0v1b6ak9a3kv","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:54 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"68sxn9qcha5036l0psrr0s98xg36edoq","id":"6"} 
+03.06.17 08:23:54 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:23:55 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"68sxn9qcha5036l0psrr0s98xg36edoq","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:55 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"h6dddjxun7u53hkjef6k1zmk6a0com03","id":"6"} 
+03.06.17 08:23:56 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"h6dddjxun7u53hkjef6k1zmk6a0com03","id":"6","fields":{"ASSIGNED_BY_ID":"1"}} 
+03.06.17 08:23:59 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:24:00 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:24:01 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:24:02 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:24:14 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:24:15 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:24:16 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:24:18 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:25:42 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:25:43 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:25:44 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:25:45 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:27:35 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:27:36 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:27:37 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:27:38 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:28:49 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:28:50 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:28:51 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:28:52 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:30:30 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:30:31 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:30:32 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:30:33 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:32:40 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:32:41 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:32:42 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:32:43 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:32:57 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:32:58 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"4mgq9hiq61g9j2kvei9y0pw81hw1uodn","id":"6"} 
+03.06.17 08:32:59 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"4mgq9hiq61g9j2kvei9y0pw81hw1uodn","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:33:00 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:33:01 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"y3he1ywmto8rmdxn3lgim0gfnw9eqqdn","id":"6"} 
+03.06.17 08:33:02 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"y3he1ywmto8rmdxn3lgim0gfnw9eqqdn","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:33:03 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+03.06.17 08:33:04 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.get с параметрами: {"auth":"vvxrypusxyi562z5zwrmoxlpuu0wq3z4","id":"6"} 
+03.06.17 08:33:05 vkbitrix24.bitrix24.ru Вызван метод: crm.deal.update с параметрами: {"auth":"vvxrypusxyi562z5zwrmoxlpuu0wq3z4","id":"6","fields":{"ASSIGNED_BY_ID":"6"}} 
+03.06.17 08:33:34 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"3ejipi3y8vz3mun6712vdb1a704lip3l"} 
+03.06.17 08:33:35 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:33:36 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+03.06.17 08:33:38 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 

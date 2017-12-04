@@ -1,0 +1,296 @@
+02.05.17 00:01:56 Вызван метод: user.current с параметрами: {"auth":"qsmh7su1tolff0dkmw10tjirtp8b90ee"} 
+02.05.17 00:01:57 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"0q02dzb64ryfgq8hxg2sb9kvqu069ubi"} 
+02.05.17 00:01:58 Вызван метод: user.get с параметрами: {"auth":"p6flx9xcbjr269fq2jp7tzpjrd9nuc6s"} 
+02.05.17 00:02:21 Вызван метод: crm.deal.get с параметрами: {"auth":"8rks9k0zy8akjh378tz1bykvh0tvm6tn","id":2} 
+02.05.17 00:41:09 Вызван метод: user.current с параметрами: {"auth":"dubhi5n2xn04m4afras420c1pcapi57j"} 
+02.05.17 00:41:10 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"zcippt8gfuqks26u4f8a80hb3573gvfk"} 
+02.05.17 00:41:11 Вызван метод: user.get с параметрами: {"auth":"yhc1520rhwvh4uqwka58a8s0u3ialvt2"} 
+02.05.17 00:45:44 Вызван метод: user.current с параметрами: {"auth":"c4f6k7zrh27kqacozal2bof3el8bxdij"} 
+02.05.17 00:45:45 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"v61b7hmtfpjdu4w8rurz7k1bc8xi1gg6"} 
+02.05.17 00:45:46 Вызван метод: user.get с параметрами: {"auth":"s7fcadx9vyyma1ddnxujnmbjxez3f891"} 
+02.05.17 00:45:58 Вызван метод: event.get с параметрами: {"auth":"s6406i5zrqc29e3f2l57qpwvlndmrtxh"} 
+02.05.17 00:45:59 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 00:46:00 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 01:01:18 Вызван метод: crm.deal.get с параметрами: {"auth":"ggsphn6p1mk4eiluzxcy8skyacu5gtux","id":2} 
+02.05.17 01:02:23 Вызван метод: crm.deal.get с параметрами: {"auth":"dttfkncho0ekq430mfpziuiyqkaskuxk","id":2} 
+02.05.17 01:03:41 Вызван метод: crm.deal.get с параметрами: {"auth":"d3xrrghetzw9la80ispta2lzi6d9oh2z","id":2} 
+02.05.17 01:04:52 Вызван метод: crm.deal.get с параметрами: {"auth":"qw7oz2zq0tlyo4pc2u4t7gygh17zvlc4","id":2} 
+02.05.17 01:06:09 Вызван метод: crm.deal.get с параметрами: {"auth":"j3f804b7flupzl841t5mclis7lk5zp5b","id":2} 
+02.05.17 01:06:23 Вызван метод: crm.deal.get с параметрами: {"auth":"obauw5hqo3a6y29ak78s8c1v11jbyeq6","id":2} 
+02.05.17 01:08:54 Вызван метод: crm.deal.get с параметрами: {"auth":"vcad33x5bu15p60tgmn9hicizhb4rp50","id":2} 
+02.05.17 01:09:10 Вызван метод: event.get с параметрами: {"auth":"2s70wmd26aqzugvelf1hifsrqgy0n54s"} 
+02.05.17 01:09:11 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 01:09:12 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 01:09:15 Вызван метод: crm.deal.get с параметрами: {"auth":"17s1ec3d2xs3jnqh6j642d54a1ds1qls","id":2} 
+02.05.17 01:09:16 Вызван метод: crm.deal.update с параметрами: {"auth":"17s1ec3d2xs3jnqh6j642d54a1ds1qls","id":2,"ASSIGNED_BY_ID":null} 
+02.05.17 01:09:17 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:09:17 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:09:56 Вызван метод: crm.deal.get с параметрами: {"auth":"9zm3vtlayd1rkj2iefdc4s7plbjhx7ux","id":2} 
+02.05.17 01:09:56 Вызван метод: crm.deal.update с параметрами: {"auth":"9zm3vtlayd1rkj2iefdc4s7plbjhx7ux","id":2,"ASSIGNED_BY_ID":null} 
+02.05.17 01:09:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:09:57 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:11:01 Вызван метод: crm.deal.get с параметрами: {"auth":"bsfkwpu84rsl6mc84mvj2t0aoqdu1vj8","id":2} 
+02.05.17 01:11:01 Вызван метод: crm.deal.update с параметрами: {"auth":"bsfkwpu84rsl6mc84mvj2t0aoqdu1vj8","id":2,"ASSIGNED_BY_ID":"6"} 
+02.05.17 01:11:02 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:11:03 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:12:04 Вызван метод: crm.deal.get с параметрами: {"auth":"0z0jnufl5nhzsw755prww6qe4xiyytn2","id":2} 
+02.05.17 01:12:05 Вызван метод: crm.deal.update с параметрами: {"auth":"0z0jnufl5nhzsw755prww6qe4xiyytn2","id":2,"ASSIGNED_BY_ID":"6"} 
+02.05.17 01:12:07 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:12:07 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:14:31 Вызван метод: crm.deal.get с параметрами: {"auth":"9619w78w9wexuznkbgo5wy3xhq9zxe97","id":2} 
+02.05.17 01:14:32 Вызван метод: crm.deal.update с параметрами: {"auth":"9619w78w9wexuznkbgo5wy3xhq9zxe97","id":2,"ASSIGNED_BY_ID":"6"} 
+02.05.17 01:14:33 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:14:33 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:15:04 Вызван метод: user.current с параметрами: {"auth":"xxi1di0hjicaei1hqzr0we99u8skkmdc"} 
+02.05.17 01:15:04 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"b7o3i8bxfwti7l2mh9jbsn2pwz4ebd57"} 
+02.05.17 01:15:05 Вызван метод: user.get с параметрами: {"auth":"s741tmt3enf020pqz4yc32n9cb200xtq"} 
+02.05.17 01:15:26 Вызван метод: crm.deal.get с параметрами: {"auth":"wwvtb409dynyr12qhp4qsu6n0davljs3","id":2} 
+02.05.17 01:15:27 Вызван метод: crm.deal.update с параметрами: {"auth":"wwvtb409dynyr12qhp4qsu6n0davljs3","id":2,"ASSIGNED_BY_ID":"6"} 
+02.05.17 01:15:29 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:15:29 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:20:18 Вызван метод: user.get с параметрами: {"auth":"7e5a7jjoc2ow5altbwskczuf4d86c2rr"} 
+02.05.17 01:34:39 Вызван метод: crm.deal.get с параметрами: {"auth":"vgarqocm2wb9imj6wvq8y2re366rxzed","id":2} 
+02.05.17 01:34:41 Вызван метод: crm.deal.update с параметрами: {"auth":"vgarqocm2wb9imj6wvq8y2re366rxzed","id":2,"fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 01:34:42 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 01:34:42 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":2} 
+02.05.17 01:42:56 Вызван метод: user.current с параметрами: {"auth":"62tk2jad0ygt9bblt2ok4t3bud3666p1"} 
+02.05.17 01:42:56 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"k81xdd6vgvp8z6tvtu0w7vd719npxarw"} 
+02.05.17 01:42:57 Вызван метод: user.get с параметрами: {"auth":"sebifx3vh16c3k4hautcv3edyesdbe00"} 
+02.05.17 01:44:06 Вызван метод: user.current с параметрами: {"auth":"wofs223xo8sm1uqveq0bzlv253duhafz"} 
+02.05.17 01:44:07 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"vzwldve0jxcswwdwhvsvqxsgjmid1vf7"} 
+02.05.17 01:44:08 Вызван метод: user.get с параметрами: {"auth":"jr3ak5f8v4nddnktmg2l49a4n97pqydo"} 
+02.05.17 01:44:40 Вызван метод: user.current с параметрами: {"auth":"8ark3wb937kb57nsv7nq87ngm9s4j5fh"} 
+02.05.17 01:44:41 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"fcgak429xyy3ikypa7ubf326wt23vh15"} 
+02.05.17 01:44:42 Вызван метод: user.get с параметрами: {"auth":"6hrdqjszop80uly35imkpdlc3zp2cqwf"} 
+02.05.17 01:46:34 Вызван метод: user.current с параметрами: {"auth":"erpmuincaexiev3p0698alrhbxarqecb"} 
+02.05.17 01:46:35 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"b11c2b7zvdaovfnoui1z04nql7800pqs"} 
+02.05.17 01:46:36 Вызван метод: user.get с параметрами: {"auth":"xccszokqgbg98psrkicuzvlb45vwhco3"} 
+02.05.17 01:47:54 Вызван метод: user.current с параметрами: {"auth":"tafl080nxi4czmodrnuclu2p0o8f39cx"} 
+02.05.17 01:47:55 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"7iqtmi6q39yow7914ly6a0pp4pdbk30a"} 
+02.05.17 01:47:55 Вызван метод: user.get с параметрами: {"auth":"oq006scyfdpsq99shi9mfr5nmn5lz1ml"} 
+02.05.17 01:55:55 Вызван метод: user.current с параметрами: {"auth":"zqt2gyfnt4jzx3jz0t1abyw2ry0wrxyt"} 
+02.05.17 01:55:56 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"x7scyd470bjqeoho0cy9j6v145wyvjqm"} 
+02.05.17 01:55:57 Вызван метод: user.get с параметрами: {"auth":"8m77ztu1smpzttgobv6cdveum4tj6we6"} 
+02.05.17 01:56:07 Вызван метод: user.current с параметрами: {"auth":"t5uewo64av46l6nd98mdmt7xn713kp3u"} 
+02.05.17 01:56:08 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"etd4d0wl9qa1i2quu5fcwlx0sxsq3j08"} 
+02.05.17 01:56:08 Вызван метод: user.get с параметрами: {"auth":"az394odfyoyct32fzj8buhojk1cc1thi"} 
+02.05.17 01:58:23 Вызван метод: user.current с параметрами: {"auth":"m3go9jaygodvn24dmxjmqlg2mxj7cdqq"} 
+02.05.17 01:58:24 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"d59rmn0hstmcp3uqbkgxmv8yha9dtgyv"} 
+02.05.17 01:58:25 Вызван метод: user.get с параметрами: {"auth":"xe2hg95jffi1vaz8kin234dqyf4a8yuk"} 
+02.05.17 01:59:27 Вызван метод: user.current с параметрами: {"auth":"blg8zxwzb1i1mlcks1ktq88bic4e5z69"} 
+02.05.17 01:59:28 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"3nbpl6tauguf1fwxaw7txfxvv5uohe6s"} 
+02.05.17 01:59:29 Вызван метод: user.get с параметрами: {"auth":"uwcb1me6vhn7jr1yxkmgxyofq9djx1mh"} 
+02.05.17 02:01:14 Вызван метод: user.current с параметрами: {"auth":"nm24t4xui7dj62zosp1mqrifp62b7cep"} 
+02.05.17 02:01:15 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"0xob6643po8n0t7phgwpm3n0b4tmoy4j"} 
+02.05.17 02:01:16 Вызван метод: user.get с параметрами: {"auth":"0jlnv19y4v2rlz23pd3g8u1xajpdzf6w"} 
+02.05.17 02:01:28 Вызван метод: user.current с параметрами: {"auth":"ood39qaqrakfnkjsfvci8zsvseclty3s"} 
+02.05.17 02:01:29 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"qmshjoow7mztotatxv5hs0z3ils2423q"} 
+02.05.17 02:01:30 Вызван метод: user.get с параметрами: {"auth":"ul9jp9r1egbnl1n1nueyyknx05ign2mk"} 
+02.05.17 02:02:17 Вызван метод: user.current с параметрами: {"auth":"8di3w0gj3t6hu8anjchkwze62h27rye3"} 
+02.05.17 02:02:17 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"phx92arwit0lvheuxbyrmls6wzvc8b3s"} 
+02.05.17 02:02:18 Вызван метод: user.get с параметрами: {"auth":"fxi24nifto539yfo5noonpgtscqr40a9"} 
+02.05.17 02:02:37 Вызван метод: user.current с параметрами: {"auth":"sc7m83f4atpxkvxuce1rlgqsm6lbksc0"} 
+02.05.17 02:02:38 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"w1d781r15gspfu8u9zrhs14tco3wvaud"} 
+02.05.17 02:02:39 Вызван метод: user.get с параметрами: {"auth":"0r0hm0vfsq7ifjl6nw8cfa027zadh00q"} 
+02.05.17 02:03:40 Вызван метод: user.current с параметрами: {"auth":"ay1nu6kp3whupt4g1zfpxb7oyh84dcvi"} 
+02.05.17 02:03:41 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"idtyhecp8t5aemlih2qqa6ng3tpr3ozk"} 
+02.05.17 02:03:42 Вызван метод: user.get с параметрами: {"auth":"p6yt2t4yn2mzx2gs30kngp85api2hcbo"} 
+02.05.17 02:04:28 Вызван метод: user.current с параметрами: {"auth":"tvp8fwhodnslff5ibaskluy89mnt3gt1"} 
+02.05.17 02:04:29 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"cf3rhf2b7hdnqzdfnlnztbkvov94y3l7"} 
+02.05.17 02:04:29 Вызван метод: user.get с параметрами: {"auth":"g5838wxyqvji4qy40lewivi0zcxuiseu"} 
+02.05.17 02:05:06 Вызван метод: user.current с параметрами: {"auth":"hic9k17ghr2md1jlsy2wv09677bfi3dm"} 
+02.05.17 02:05:07 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"t0ta60avq3k32xtg011w4vwzdqnodsel"} 
+02.05.17 02:05:08 Вызван метод: user.get с параметрами: {"auth":"9tst20epz70zk28dd3eg6xntg4kwcqeg"} 
+02.05.17 02:05:30 Вызван метод: user.current с параметрами: {"auth":"0pzlelwqdzmu7bjh4wsz1j19pm85vxdt"} 
+02.05.17 02:05:31 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"03q9k0mspfz92szv6dg7dajya9186rrj"} 
+02.05.17 02:05:32 Вызван метод: user.get с параметрами: {"auth":"snmbbe43oyn1gl602e8ngsg4snsvsltj"} 
+02.05.17 02:06:25 Вызван метод: user.current с параметрами: {"auth":"yiim9paad0ykm54nx2nmv7e16jmqognh"} 
+02.05.17 02:06:26 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"n61dbwpbo3dadyfmt0wcc5huioe5aavt"} 
+02.05.17 02:06:26 Вызван метод: user.get с параметрами: {"auth":"8reh61loghke9l81zsive4nyk2o7wzdk"} 
+02.05.17 02:12:32 Вызван метод: user.current с параметрами: {"auth":"th97kyyl56nbws208s2je1y4bgsn3uxu"} 
+02.05.17 02:12:33 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"uwgnmpga19kjlvsvtjy2zqe2qik7yijc"} 
+02.05.17 02:12:34 Вызван метод: user.get с параметрами: {"auth":"qpn8a4yrepmmv772ibyw4z29kyd20fp7"} 
+02.05.17 02:13:11 Вызван метод: user.current с параметрами: {"auth":"4bi95vjgw30q38o6p44jya02qc7zj9qd"} 
+02.05.17 02:13:12 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"rap1atf6az9j8xxphyvy2n1faubd2i23"} 
+02.05.17 02:13:13 Вызван метод: user.get с параметрами: {"auth":"sfoppmgfwcdk0k4sam8wlpiy2o0dvrjz"} 
+02.05.17 02:13:49 Вызван метод: user.current с параметрами: {"auth":"opor1a90i1vxik63bcyx2lfr2av9hpha"} 
+02.05.17 02:13:50 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"pd6qb6j9eea38bvjptt0l5pqmwd4fvgd"} 
+02.05.17 02:13:51 Вызван метод: user.get с параметрами: {"auth":"nf2su16mux4p52stm1k0ypizs1olvafr"} 
+02.05.17 06:33:12 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:33:12 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:33:21 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:33:21 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:36:55 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:36:55 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:38:27 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:38:27 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:39:57 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:39:57 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:40:16 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:40:16 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:40:51 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:40:52 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:42:26 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:42:26 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:43:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:43:10 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:44:11 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:44:12 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:45:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:45:10 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:47:21 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:47:21 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:47:48 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:47:48 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:48:23 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:48:23 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:54:06 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:54:06 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:54:38 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:54:38 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:55:13 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:55:13 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:56:33 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:57:48 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:57:48 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:58:13 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:58:13 Вызван метод: crm.deal.get с параметрами: {"auth":null,"id":"4"} 
+02.05.17 06:59:26 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:59:27 Вызван метод: crm.deal.get с параметрами: {"auth":"6c0rtvauwlsx4jyfzipabh2644nv3rt4","id":"4"} 
+02.05.17 06:59:39 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 06:59:39 Вызван метод: crm.deal.get с параметрами: {"auth":"x0ugqenqf7i51mo4pmedr8if0p0qityr","id":"4"} 
+02.05.17 07:00:05 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:00:05 Вызван метод: crm.deal.get с параметрами: {"auth":"jp6ymwekeq0pbbr3kiuvprxnzyizb6b8","id":"4"} 
+02.05.17 07:00:32 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:00:32 Вызван метод: crm.deal.get с параметрами: {"auth":"s6qqr6c7ezjqyt953e1l5uvx24093gc5","id":"4"} 
+02.05.17 07:02:35 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:02:35 Вызван метод: crm.deal.get с параметрами: {"auth":"a4xkc3rsh3wwbfk5yh3v2efg5nh85qct","id":"4"} 
+02.05.17 07:03:01 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:03:01 Вызван метод: crm.deal.get с параметрами: {"auth":"97m2pe92gcrzx2tqw192986427hp11rc","id":"4"} 
+02.05.17 07:03:22 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:03:22 Вызван метод: crm.deal.get с параметрами: {"auth":"p5axzea5jcloj4dgkrtvdag6wi0eh81k","id":"4"} 
+02.05.17 07:04:11 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:04:11 Вызван метод: crm.deal.get с параметрами: {"auth":"fdpn98zv3rfix4g23xhciiqtuvk8wkzi","id":"4"} 
+02.05.17 07:14:05 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:14:05 Вызван метод: crm.deal.get с параметрами: {"auth":"e703u536xsl1ozqecmpcb41vjdckvy9h","id":"4"} 
+02.05.17 07:15:10 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:15:10 Вызван метод: crm.deal.get с параметрами: {"auth":"g5aw68t1o61t2yczadb8kprgnnhucsny","id":"4"} 
+02.05.17 07:15:12 Вызван метод: crm.deal.update с параметрами: {"auth":"g5aw68t1o61t2yczadb8kprgnnhucsny","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:15:13 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:15:13 Вызван метод: crm.deal.get с параметрами: {"auth":"d0o58tx7cudd5xm82xd0xj2sakscusrn","id":"4"} 
+02.05.17 07:15:15 Вызван метод: crm.deal.update с параметрами: {"auth":"d0o58tx7cudd5xm82xd0xj2sakscusrn","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:15:16 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:15:17 Вызван метод: crm.deal.get с параметрами: {"auth":"vqthvctx6qvtszrwt7a96pqaxubv4rhw","id":"4"} 
+02.05.17 07:15:18 Вызван метод: crm.deal.update с параметрами: {"auth":"vqthvctx6qvtszrwt7a96pqaxubv4rhw","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:15:35 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:15:36 Вызван метод: crm.deal.get с параметрами: {"auth":"jfi5l7c4g9gb7gvklk40zy1wwts9f2r2","id":"4"} 
+02.05.17 07:16:09 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:16:10 Вызван метод: crm.deal.get с параметрами: {"auth":"vaa4pakybg3evo09p7y9t97c9k2vqxxy","id":"4"} 
+02.05.17 07:16:11 Вызван метод: crm.deal.update с параметрами: {"auth":"vaa4pakybg3evo09p7y9t97c9k2vqxxy","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:16:12 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:16:13 Вызван метод: crm.deal.get с параметрами: {"auth":"tcmop8vo5irbru2ep100zedwys5ovvu8","id":"4"} 
+02.05.17 07:16:14 Вызван метод: crm.deal.update с параметрами: {"auth":"tcmop8vo5irbru2ep100zedwys5ovvu8","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:16:16 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:16:16 Вызван метод: crm.deal.get с параметрами: {"auth":"s22sk9sgt6dwbsuwj1t2tms0crex96ji","id":"4"} 
+02.05.17 07:16:17 Вызван метод: crm.deal.update с параметрами: {"auth":"s22sk9sgt6dwbsuwj1t2tms0crex96ji","id":"4","fields":{"ASSIGNED_BY_ID":"6"}} 
+02.05.17 07:18:19 Вызван метод: user.current с параметрами: {"auth":"cp6qed0cld8zxk61egnxr0qfobr74lt7"} 
+02.05.17 07:18:20 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"cp6qed0cld8zxk61egnxr0qfobr74lt7"} 
+02.05.17 07:18:20 Вызван метод: user.get с параметрами: {"auth":"cp6qed0cld8zxk61egnxr0qfobr74lt7"} 
+02.05.17 07:18:33 ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+02.05.17 07:18:33 Вызван метод: crm.deal.get с параметрами: {"auth":"","id":""} 
+02.05.17 10:26:32 Вызван метод: user.current с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:33 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:34 Вызван метод: user.get с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:50 Вызван метод: event.get с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:52 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 10:26:53 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 10:26:54 Вызван метод: event.get с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:55 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 10:26:56 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 10:26:57 Вызван метод: event.get с параметрами: {"auth":"70h74jagha3m9r386xgfy6mz95ji1nkf"} 
+02.05.17 10:26:58 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 10:26:59 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 12:00:42 Вызван метод: user.current с параметрами: {"auth":"qrmjwyaco2unjce3bif8e2o0o5h208aw"} 
+02.05.17 12:00:43 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"qrmjwyaco2unjce3bif8e2o0o5h208aw"} 
+02.05.17 12:00:44 Вызван метод: user.get с параметрами: {"auth":"qrmjwyaco2unjce3bif8e2o0o5h208aw"} 
+02.05.17 12:04:40 Вызван метод: event.get с параметрами: {"auth":"qrmjwyaco2unjce3bif8e2o0o5h208aw"} 
+02.05.17 12:04:41 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 12:04:43 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 12:04:51 Вызван метод: user.current с параметрами: {"auth":"3sqdxtncc9skrdciqrkmrmx3nrmcti8f"} 
+02.05.17 12:04:51 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"3sqdxtncc9skrdciqrkmrmx3nrmcti8f"} 
+02.05.17 12:04:52 Вызван метод: user.get с параметрами: {"auth":"3sqdxtncc9skrdciqrkmrmx3nrmcti8f"} 
+02.05.17 12:07:42 Вызван метод: user.current с параметрами: {"auth":"yqiqgipf24jadkdnxj0senr1g9fdsu6b"} 
+02.05.17 12:07:42 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"yqiqgipf24jadkdnxj0senr1g9fdsu6b"} 
+02.05.17 12:07:43 Вызван метод: user.get с параметрами: {"auth":"yqiqgipf24jadkdnxj0senr1g9fdsu6b"} 
+02.05.17 12:13:11 Вызван метод: user.current с параметрами: {"auth":"kp2k0eo1d7r4ageptpau9cij90438jfo"} 
+02.05.17 12:13:12 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"kp2k0eo1d7r4ageptpau9cij90438jfo"} 
+02.05.17 12:13:14 Вызван метод: user.get с параметрами: {"auth":"kp2k0eo1d7r4ageptpau9cij90438jfo"} 
+02.05.17 12:21:41 Вызван метод: user.current с параметрами: {"auth":"krf7hu6oitt4nqk0t1527opcdc4lq37e"} 
+02.05.17 12:21:42 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"krf7hu6oitt4nqk0t1527opcdc4lq37e"} 
+02.05.17 12:21:42 Вызван метод: user.get с параметрами: {"auth":"krf7hu6oitt4nqk0t1527opcdc4lq37e"} 
+02.05.17 12:27:57 Вызван метод: user.current с параметрами: {"auth":"6g9rzlx04yus4c0w5wi2em9rkqlmkfwb"} 
+02.05.17 12:27:58 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"6g9rzlx04yus4c0w5wi2em9rkqlmkfwb"} 
+02.05.17 12:27:59 Вызван метод: user.get с параметрами: {"auth":"6g9rzlx04yus4c0w5wi2em9rkqlmkfwb"} 
+02.05.17 12:28:31 Вызван метод: user.current с параметрами: {"auth":"ygor6puo2a962km6ug8ivszz72b2b7m0"} 
+02.05.17 12:28:32 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"ygor6puo2a962km6ug8ivszz72b2b7m0"} 
+02.05.17 12:28:32 Вызван метод: user.get с параметрами: {"auth":"ygor6puo2a962km6ug8ivszz72b2b7m0"} 
+02.05.17 12:30:49 Вызван метод: user.current с параметрами: {"auth":"is731sgfft4yralvq4ak1f429mj4z4o0"} 
+02.05.17 12:30:50 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"is731sgfft4yralvq4ak1f429mj4z4o0"} 
+02.05.17 12:30:51 Вызван метод: user.get с параметрами: {"auth":"is731sgfft4yralvq4ak1f429mj4z4o0"} 
+02.05.17 12:34:07 Вызван метод: user.current с параметрами: {"auth":"gcjnitjsedz6dnoy3inafvclq9243037"} 
+02.05.17 12:34:08 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"gcjnitjsedz6dnoy3inafvclq9243037"} 
+02.05.17 12:34:09 Вызван метод: user.get с параметрами: {"auth":"gcjnitjsedz6dnoy3inafvclq9243037"} 
+02.05.17 12:39:25 Вызван метод: user.current с параметрами: {"auth":"88c1dtuvhui12qmsl8wanaptfwzs5ugy"} 
+02.05.17 12:39:26 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"88c1dtuvhui12qmsl8wanaptfwzs5ugy"} 
+02.05.17 12:39:26 Вызван метод: user.get с параметрами: {"auth":"88c1dtuvhui12qmsl8wanaptfwzs5ugy"} 
+02.05.17 12:39:53 Вызван метод: user.current с параметрами: {"auth":"5xerjkgfeukhp4g7l05q6plgvoz6bpbg"} 
+02.05.17 12:39:54 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"5xerjkgfeukhp4g7l05q6plgvoz6bpbg"} 
+02.05.17 12:39:55 Вызван метод: user.get с параметрами: {"auth":"5xerjkgfeukhp4g7l05q6plgvoz6bpbg"} 
+02.05.17 12:40:25 Вызван метод: user.current с параметрами: {"auth":"wm4zpb2ie45sujkvumo29syvnwew1as2"} 
+02.05.17 12:40:27 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"wm4zpb2ie45sujkvumo29syvnwew1as2"} 
+02.05.17 12:40:27 Вызван метод: user.get с параметрами: {"auth":"wm4zpb2ie45sujkvumo29syvnwew1as2"} 
+02.05.17 12:40:58 Вызван метод: user.current с параметрами: {"auth":"2u9eni6xzfpr7ggua63i9gys0hjx9p20"} 
+02.05.17 12:40:58 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"2u9eni6xzfpr7ggua63i9gys0hjx9p20"} 
+02.05.17 12:40:59 Вызван метод: user.get с параметрами: {"auth":"2u9eni6xzfpr7ggua63i9gys0hjx9p20"} 
+02.05.17 12:44:12 Вызван метод: user.current с параметрами: {"auth":"nuy9wwvh9iulfaskd86vjr7b3535lhoh"} 
+02.05.17 12:44:13 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"nuy9wwvh9iulfaskd86vjr7b3535lhoh"} 
+02.05.17 12:44:14 Вызван метод: user.get с параметрами: {"auth":"nuy9wwvh9iulfaskd86vjr7b3535lhoh"} 
+02.05.17 12:44:20 Вызван метод: event.get с параметрами: {"auth":"nuy9wwvh9iulfaskd86vjr7b3535lhoh"} 
+02.05.17 12:44:21 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 12:44:22 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:01:30 Вызван метод: user.current с параметрами: {"auth":"c7veqlpme4eq8x4qaq0k1y3ciyjrjvk5"} 
+02.05.17 13:01:31 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"c7veqlpme4eq8x4qaq0k1y3ciyjrjvk5"} 
+02.05.17 13:01:31 Вызван метод: user.get с параметрами: {"auth":"c7veqlpme4eq8x4qaq0k1y3ciyjrjvk5"} 
+02.05.17 13:01:39 Вызван метод: event.get с параметрами: {"auth":"c7veqlpme4eq8x4qaq0k1y3ciyjrjvk5"} 
+02.05.17 13:01:40 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:01:42 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:04:56 Вызван метод: user.current с параметрами: {"auth":"2o836c1fwn5vqyc0vj3njp5dkdptaj72"} 
+02.05.17 13:04:56 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"2o836c1fwn5vqyc0vj3njp5dkdptaj72"} 
+02.05.17 13:04:57 Вызван метод: user.get с параметрами: {"auth":"2o836c1fwn5vqyc0vj3njp5dkdptaj72"} 
+02.05.17 13:06:49 Вызван метод: user.current с параметрами: {"auth":"ox0edq90nqq3j8gldrr3i0l5drj9kxs5"} 
+02.05.17 13:06:49 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"ox0edq90nqq3j8gldrr3i0l5drj9kxs5"} 
+02.05.17 13:06:50 Вызван метод: user.get с параметрами: {"auth":"ox0edq90nqq3j8gldrr3i0l5drj9kxs5"} 
+02.05.17 13:07:19 Вызван метод: event.get с параметрами: {"auth":"ox0edq90nqq3j8gldrr3i0l5drj9kxs5"} 
+02.05.17 13:07:20 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:07:21 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:07:41 Вызван метод: user.current с параметрами: {"auth":"35em194iwdw8xjrq2cmr13g1jn9nue4z"} 
+02.05.17 13:07:41 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"35em194iwdw8xjrq2cmr13g1jn9nue4z"} 
+02.05.17 13:07:42 Вызван метод: user.get с параметрами: {"auth":"35em194iwdw8xjrq2cmr13g1jn9nue4z"} 
+02.05.17 13:07:53 Вызван метод: user.current с параметрами: {"auth":"83lwqm4e3v34dbnt2dhzare9edx963rm"} 
+02.05.17 13:07:53 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"83lwqm4e3v34dbnt2dhzare9edx963rm"} 
+02.05.17 13:07:54 Вызван метод: user.get с параметрами: {"auth":"83lwqm4e3v34dbnt2dhzare9edx963rm"} 
+02.05.17 13:09:17 Вызван метод: user.current с параметрами: {"auth":"jbhfznwa0j74eavzp60q5urhnh8fqz2t"} 
+02.05.17 13:09:17 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"jbhfznwa0j74eavzp60q5urhnh8fqz2t"} 
+02.05.17 13:09:18 Вызван метод: user.get с параметрами: {"auth":"jbhfznwa0j74eavzp60q5urhnh8fqz2t"} 
+02.05.17 13:09:45 Вызван метод: event.get с параметрами: {"auth":"jbhfznwa0j74eavzp60q5urhnh8fqz2t"} 
+02.05.17 13:09:46 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:09:47 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:10:36 Вызван метод: user.current с параметрами: {"auth":"7x3o4n4ik56d6a6cze5yqpzbe3g0mvi7"} 
+02.05.17 13:10:37 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"7x3o4n4ik56d6a6cze5yqpzbe3g0mvi7"} 
+02.05.17 13:10:37 Вызван метод: user.get с параметрами: {"auth":"7x3o4n4ik56d6a6cze5yqpzbe3g0mvi7"} 
+02.05.17 13:10:46 Вызван метод: event.get с параметрами: {"auth":"7x3o4n4ik56d6a6cze5yqpzbe3g0mvi7"} 
+02.05.17 13:10:47 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:10:48 ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+02.05.17 13:11:15 Вызван метод: user.current с параметрами: {"auth":"2a0adgojsx81gutx3tncfl6ekpul3reh"} 
+02.05.17 13:11:16 Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"2a0adgojsx81gutx3tncfl6ekpul3reh"} 
+02.05.17 13:11:16 Вызван метод: user.get с параметрами: {"auth":"2a0adgojsx81gutx3tncfl6ekpul3reh"} 

@@ -1,0 +1,3 @@
+18.06.17 11:57:55 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"9llz2i5n3x66jgecy4vxmwdh9cyl5el1"} 
+18.06.17 11:57:55 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"9llz2i5n3x66jgecy4vxmwdh9cyl5el1"} 
+18.06.17 11:57:56 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"9llz2i5n3x66jgecy4vxmwdh9cyl5el1","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 

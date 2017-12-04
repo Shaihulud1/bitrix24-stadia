@@ -1,0 +1,78 @@
+28.06.17 06:46:24 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z"} 
+28.06.17 06:46:24 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z"} 
+28.06.17 06:46:24 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z"} 
+28.06.17 06:46:25 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 06:46:25 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 06:46:25 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"8xwvhcjv8vfge9q7rnt2gmxzaslino0z"} 
+28.06.17 12:52:35 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"mzuj7sqgifcys8cn0fbkem55508eabij"} 
+28.06.17 12:52:35 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"mzuj7sqgifcys8cn0fbkem55508eabij"} 
+28.06.17 12:52:36 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"mzuj7sqgifcys8cn0fbkem55508eabij","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 12:52:36 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"mzuj7sqgifcys8cn0fbkem55508eabij","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 12:52:36 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"mzuj7sqgifcys8cn0fbkem55508eabij"} 
+28.06.17 12:55:39 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6"} 
+28.06.17 12:55:39 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6"} 
+28.06.17 12:55:40 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6"} 
+28.06.17 12:55:40 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 12:55:40 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 12:55:41 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"9xv4x325n3q6ii4y30u09dk3qln4tjw6"} 
+28.06.17 13:26:18 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:26:19 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:26:19 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:26:20 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:26:20 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:26:20 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:30:50 vkbitrix24@gmail.com Вызван метод: crm.lead.add с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","fields":{"TITLE":"api"}} 
+28.06.17 13:30:51 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:52 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:52 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"7z0onrth62znpmymfbndkw9huvvtza8e","id":"50"} 
+28.06.17 13:30:54 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"7z0onrth62znpmymfbndkw9huvvtza8e","id":"50","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:30:55 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:55 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:56 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"2dn93e5jix5r3kudbllqjnio4m1rkc5z","id":"50"} 
+28.06.17 13:30:57 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"2dn93e5jix5r3kudbllqjnio4m1rkc5z","id":"50","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:30:58 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:59 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:30:59 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"pbd1arq2mfbjee9sjtmdhba7mg3z49t3","id":"50"} 
+28.06.17 13:31:01 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"pbd1arq2mfbjee9sjtmdhba7mg3z49t3","id":"50","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:31:45 vkbitrix24@gmail.com Вызван метод: sonet_group.user.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","ID":"12"} 
+28.06.17 13:31:45 vkbitrix24@gmail.com Вызван метод: sonet_group.user.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","ID":"12"} 
+28.06.17 13:31:46 vkbitrix24@gmail.com Вызван метод: sonet_group.user.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","ID":"12"} 
+28.06.17 13:31:46 vkbitrix24@gmail.com Вызван метод: sonet_group.user.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","ID":"12"} 
+28.06.17 13:31:46 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:31:47 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:31:48 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:31:49 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:31:50 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:31:51 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:01 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if"} 
+28.06.17 13:32:01 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if"} 
+28.06.17 13:32:01 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if"} 
+28.06.17 13:32:02 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:32:02 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:32:02 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"n49b517laufc8wtj23ngabbphmip92if"} 
+28.06.17 13:32:13 vkbitrix24@gmail.com Вызван метод: crm.lead.add с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290","fields":{"TITLE":"api"}} 
+28.06.17 13:32:15 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:15 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:16 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"zhtglzspqrl5o944yvgq2jcrub20vynk","id":"52"} 
+28.06.17 13:32:17 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"zhtglzspqrl5o944yvgq2jcrub20vynk","id":"52","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:32:18 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:19 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:19 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"ewrk7njk3w811np7l4qql3sas4s18ggq","id":"52"} 
+28.06.17 13:32:20 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"ewrk7njk3w811np7l4qql3sas4s18ggq","id":"52","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:32:22 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:22 vkbitrix24.bitrix24.ru ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+28.06.17 13:32:22 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.get с параметрами: {"auth":"g0s9swnzug0ag6kb3dtxz1u65nphue6h","id":"52"} 
+28.06.17 13:32:24 vkbitrix24.bitrix24.ru Вызван метод: crm.lead.update с параметрами: {"auth":"g0s9swnzug0ag6kb3dtxz1u65nphue6h","id":"52","fields":{"ASSIGNED_BY_ID":"16"}} 
+28.06.17 13:32:31 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"4jb0ffdf9azuguzm6rrk0ib4wzap3290"} 
+28.06.17 13:32:32 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:33 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:34 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:35 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:36 vkbitrix24@gmail.com ОШИБКА: ERROR_CORE(Unable to set event handler: Handler already binded) 
+28.06.17 13:32:40 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6"} 
+28.06.17 13:32:41 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6"} 
+28.06.17 13:32:41 vkbitrix24@gmail.com Вызван метод: crm.status.list с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6"} 
+28.06.17 13:32:42 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:32:42 vkbitrix24@gmail.com Вызван метод: sonet_group.get с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+28.06.17 13:32:42 vkbitrix24@gmail.com Вызван метод: event.get с параметрами: {"auth":"0uvgrfw527me6lilv9mxehv7egof4zl6"} 
+28.06.17 14:50:04 vkbitrix24@gmail.com ОШИБКА: expired_token(The access token provided has expired.) 

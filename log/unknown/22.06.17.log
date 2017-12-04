@@ -1,0 +1,22 @@
+22.06.17 06:17:05  Вызван метод: user.current с параметрами: {"auth":"u0x3bsng0yx8aevoko1466gz3pa9p22z"} 
+22.06.17 12:11:35  Вызван метод: user.current с параметрами: {"auth":"8m0srm1hnwpqzedxm27nftcwjp4hrc1b"} 
+22.06.17 12:30:48  Вызван метод: user.current с параметрами: {"auth":"6i4ngdyoggcf7sfc5xsvuyr2aji010ni"} 
+22.06.17 12:49:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:49:21  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:49:35  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:49:53  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:49:53  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:49:53  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:27  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:50:27  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:47  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:48  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:48  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:48  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:49  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:50:49  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:50:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+22.06.17 12:50:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+22.06.17 12:50:59  Вызван метод: user.current с параметрами: {"auth":"im5v6t10pyullf5j5ts3wnfgrt1u8nmc"} 

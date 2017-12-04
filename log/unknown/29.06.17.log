@@ -1,0 +1,4 @@
+29.06.17 08:30:26  Вызван метод: user.current с параметрами: {"auth":"nl64wlw6l5qtidl3cfa3ca0bviduegkn"} 
+29.06.17 13:52:39  Вызван метод: user.current с параметрами: {"auth":"2atrtbmnpdfue1rlvvfxxe9vdxopo3zy"} 
+29.06.17 15:19:38  ОШИБКА: invalid_grant() 
+29.06.17 15:19:39  Вызван метод: user.current с параметрами: {"auth":"5c4ltjqprdhmkxejp2kbxharj4gg0c4z"} 

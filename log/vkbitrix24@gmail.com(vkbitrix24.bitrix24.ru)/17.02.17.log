@@ -1,0 +1,183 @@
+17.02.17 06:58:57 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 06:58:57 ОШИБКА: У пользователя неправильный токен 
+17.02.17 07:20:07 Вызван метод: user.current с параметрами: {"auth":"8w5fn0xsl7jhmwjiyaghibtht5zqqjgp"} 
+17.02.17 07:20:08 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 07:20:08 ОШИБКА: У пользователя неправильный токен 
+17.02.17 07:22:32 Вызван метод: user.current с параметрами: {"auth":"fdnvb0h73xhi5md42go9ue3klin68rq4"} 
+17.02.17 07:22:35 Вызван метод: user.current с параметрами: {"auth":"lobbc8pg79ukzi7k3lmft7splgulyj8s"} 
+17.02.17 07:22:35 Пользователь залогинился 
+17.02.17 07:26:31 Вызван метод: user.current с параметрами: {"auth":"i7ya3ba7dp4k3tpxlmclj99akva9pw3z"} 
+17.02.17 07:26:31 Пользователь залогинился 
+17.02.17 07:27:11 Вызван метод: user.current с параметрами: {"auth":"mtjv6xovtzq45v6oov276v7hmjqr3wl0"} 
+17.02.17 07:27:11 Пользователь залогинился 
+17.02.17 07:31:15 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%94%D0%B5%D1%80%D0%BD%D0%BE%D0%B2+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC&fields%5BLAST_NAME%5D=%D0%94%D0%B5%D1%80%D0%BD%D0%BE%D0%B2&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22http%3A%2F%2Fvk.com%2Fimages%2Fcamera_200.png%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid300442603"] 
+17.02.17 07:31:17 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[22],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 07:31:17 Добавлен новый ЛИД, id: 22 
+17.02.17 07:33:47 Вызван метод: user.current с параметрами: {"auth":"4t00x26jzbwo3q46zn4l7khkly2el3hf"} 
+17.02.17 07:33:47 Пользователь залогинился 
+17.02.17 08:45:36 Пользователь залогинился 
+17.02.17 08:48:18 Вызван метод: user.current с параметрами: {"auth":"n0v0yf9evr0lhh8q04dcrivat5j3nx5u"} 
+17.02.17 08:48:19 Пользователь залогинился 
+17.02.17 08:48:32 Вызван метод: user.current с параметрами: {"auth":"nvu3h7ejihp6p32olbtnthjn27cum5wm"} 
+17.02.17 08:48:33 Пользователь залогинился 
+17.02.17 08:50:22 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 08:50:22 ОШИБКА: У пользователя неправильный токен 
+17.02.17 08:58:27 Вызван метод: user.current с параметрами: {"auth":"j73bwticg6g2kyqekmzezq2wm306k5t1"} 
+17.02.17 08:58:27 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 08:58:27 ОШИБКА: У пользователя неправильный токен 
+17.02.17 08:58:53 Вызван метод: user.current с параметрами: {"auth":"owvxmr6ewh13pf23mhecxkm8j3vulj4b"} 
+17.02.17 08:58:53 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 08:58:53 ОШИБКА: У пользователя неправильный токен 
+17.02.17 08:59:17 Вызван метод: user.current с параметрами: {"auth":"1gklaphyhvaululoxvpvd8vkfm1crn3k"} 
+17.02.17 08:59:17 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 08:59:17 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:00:11 Вызван метод: user.current с параметрами: {"auth":"4gu97n9izxr4mfusf686ayu0tq8511vj"} 
+17.02.17 09:00:11 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:00:11 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:00:58 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:00:58 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:03:26 Вызван метод: user.current с параметрами: {"auth":"p45xetfxcp57qrwbdzxxoqljlv9fe4m9"} 
+17.02.17 09:03:27 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:03:27 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:03:31 Вызван метод: user.current с параметрами: {"auth":"1j2gf49xygqm25volcju48ysdqqgzdvp"} 
+17.02.17 09:03:33 Вызван метод: user.current с параметрами: {"auth":"9qg36n2uvpmngqj0y17td7tng5lbv6zf"} 
+17.02.17 09:03:33 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:03:33 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:03:34 Вызван метод: user.current с параметрами: {"auth":"p1amvynka0p98wqw71srq6cpn7ra13b0"} 
+17.02.17 09:03:34 Вызван метод: user.current с параметрами: {"auth":"d3zg1a074c08wwwdl537cjw5g0btrxck"} 
+17.02.17 09:03:36 Вызван метод: user.current с параметрами: {"auth":"hjrcukba5egt6dnkkg6na3sps9vvnuqv"} 
+17.02.17 09:03:36 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:03:36 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:03:37 Вызван метод: user.current с параметрами: {"auth":"9p4tnv9dzaroadvnk92gu6h4qxa4co3m"} 
+17.02.17 09:04:20 Вызван метод: user.current с параметрами: {"auth":"bej1u4qg1rp5nxrkncqyo618opo61dkp"} 
+17.02.17 09:04:21 Вызван метод: user.current с параметрами: {"auth":"gi7owgfgmm628mmve0e7y8rwalosv3st"} 
+17.02.17 09:04:21 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:04:21 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:04:49 Вызван метод: user.current с параметрами: {"auth":"y07jx9u1tid9zdzz3y552nc3e3p38tss"} 
+17.02.17 09:04:49 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:04:49 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:05:24 Вызван метод: user.current с параметрами: {"auth":"y99uj8n48ob4esz1wryvwjpas6dqk8zx"} 
+17.02.17 09:05:24 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:05:24 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:05:29 Вызван метод: user.current с параметрами: {"auth":"yjo8mp5tqgujccun31lpdijnr7aygsxq"} 
+17.02.17 09:05:32 Вызван метод: user.current с параметрами: {"auth":"1mvd2w3se9jxxgmeio9bdssv1k834bxj"} 
+17.02.17 09:05:32 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:05:32 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:05:44 Вызван метод: user.current с параметрами: {"auth":"okowps68f1xbxcmyxbd5htswc06f2fv6"} 
+17.02.17 09:05:47 Вызван метод: user.current с параметрами: {"auth":"g4aw8g4p5ec9rtufvreumxgmf3b3zrtk"} 
+17.02.17 09:05:47 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:05:47 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:06:13 Вызван метод: user.current с параметрами: {"auth":"6qfzs20fosohop82b2qe2kyt928rdgp7"} 
+17.02.17 09:06:14 Вызван метод: user.current с параметрами: {"auth":"z7ns75apqa0uoncbdvw1zvvto22hcwch"} 
+17.02.17 09:06:15 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:06:15 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:06:16 Вызван метод: user.current с параметрами: {"auth":"62vpb3oagtl91vrtcbz15y3dctt5agjd"} 
+17.02.17 09:06:19 Вызван метод: user.current с параметрами: {"auth":"r9jlg87fsxz8ev29798ig9iskt20uy6i"} 
+17.02.17 09:06:19 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:06:19 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:07:11 Вызван метод: user.current с параметрами: {"auth":"4ebgngsp9im09590z9qjbsctiq005xqn"} 
+17.02.17 09:07:11 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:07:11 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:07:14 Вызван метод: user.current с параметрами: {"auth":"2a8a8fhyylkddg577kme3qn0m9cuumyi"} 
+17.02.17 09:07:17 Вызван метод: user.current с параметрами: {"auth":"417u1ilp7elj5bw20jnsyt6diw5phiek"} 
+17.02.17 09:07:17 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:07:17 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:07:18 Вызван метод: user.current с параметрами: {"auth":"jsclm36n56pn9gek02u36d51k92jmjmr"} 
+17.02.17 09:07:20 Вызван метод: user.current с параметрами: {"auth":"fjytl0e7sl2xlmvwflf7lufhpit7y5fj"} 
+17.02.17 09:07:44 Вызван метод: user.current с параметрами: {"auth":"3n6bc13b9lrwiztx5jq6lg2vzg48wp23"} 
+17.02.17 09:07:44 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:07:44 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:07:46 Вызван метод: user.current с параметрами: {"auth":"zct0f1xzoznbhsd2nkibgh0fmhz9nub0"} 
+17.02.17 09:07:49 Вызван метод: user.current с параметрами: {"auth":"s0otzyli2xrane3zaqczs0gxhl3okfk7"} 
+17.02.17 09:07:49 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:07:49 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:08:28 Вызван метод: user.current с параметрами: {"auth":"yi8uj6zgsl0gid37m1zhouxcg0v1gj22"} 
+17.02.17 09:08:28 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:08:28 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:09:44 Вызван метод: user.current с параметрами: {"auth":"igt90u4m6jt001ewfi2f4ctur93wu1up"} 
+17.02.17 09:09:45 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:09:45 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:10:44 Вызван метод: user.current с параметрами: {"auth":"3y2jka4bnxv6snqn927olhnzv4vz8mmd"} 
+17.02.17 09:10:45 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:10:45 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:10:56 Вызван метод: user.current с параметрами: {"auth":"vhrr9wmmfcshcys2efivn2fvcdaji3rl"} 
+17.02.17 09:10:57 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:10:57 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:13:16 Вызван метод: user.current с параметрами: {"auth":"59d2rearggotn76aefn81xtj9vilmwol"} 
+17.02.17 09:13:17 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:13:17 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:13:39 Вызван метод: user.current с параметрами: {"auth":"wra3q7e4awiop2za3yjzvx07kk7juh0s"} 
+17.02.17 09:13:40 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:13:40 ОШИБКА: У пользователя неправильный токен 
+17.02.17 09:14:04 Вызван метод: user.current с параметрами: {"auth":"550trf95muct0e2b25xd77qeth4e1nvv"} 
+17.02.17 09:14:04 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 09:14:04 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:11:51 Вызван метод: user.current с параметрами: {"auth":"exmtoyt7vyj2zo9x6jn82qshvypjpqr5"} 
+17.02.17 10:11:51 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:11:51 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:11:52 Вызван метод: user.current с параметрами: {"auth":"0zfuhdotxpkckxkm2vgtwa63qsy53uqe"} 
+17.02.17 10:11:53 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:11:53 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:14:27 Вызван метод: user.current с параметрами: {"auth":"p9jrlrbv0r9mfs0rsfdjv92shp7e09bt"} 
+17.02.17 10:14:27 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:14:27 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:14:56 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:14:56 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:20:47 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:20:47 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:22:26 Вызван метод: user.current с параметрами: {"auth":"d8lzemwix2z6qrzzd0tmgadot8zk3veq"} 
+17.02.17 10:22:28 Вызван метод: user.current с параметрами: {"auth":"c1jdii02sf9rezu2ytc34c3y7eg36gir"} 
+17.02.17 10:22:28 Пользователь залогинился 
+17.02.17 10:23:32 Вызван метод: user.current с параметрами: {"auth":"m5k293rphaznewhnkods9qokhytm67us"} 
+17.02.17 10:23:33 Пользователь залогинился 
+17.02.17 10:23:39 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:23:39 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:25:43 Вызван метод: user.current с параметрами: {"auth":"9xp571w3rjciioue8mr8uktmtle13x77"} 
+17.02.17 10:25:45 Вызван метод: user.current с параметрами: {"auth":"t9to03g9zp0w22aejoncpgixmxrutja3"} 
+17.02.17 10:25:45 Пользователь залогинился 
+17.02.17 10:26:20 Вызван метод: user.current с параметрами: {"auth":"2fi3vif8q9sdhjh5hzqxmbgdxodky38m"} 
+17.02.17 10:26:20 Пользователь залогинился 
+17.02.17 10:26:35 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD&fields%5BLAST_NAME%5D=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22https%3A%2F%2Fcs7052.vk.me%2Fc638326%2Fv638326430%2F25341%2FbxdiUS4_w-8.jpg%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid356505430"] 
+17.02.17 10:26:36 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[24],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 10:26:36 Добавлен новый ЛИД, id: 24 
+17.02.17 10:27:55 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD&fields%5BLAST_NAME%5D=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22https%3A%2F%2Fcs7052.vk.me%2Fc638326%2Fv638326430%2F25341%2FbxdiUS4_w-8.jpg%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid356505430"] 
+17.02.17 10:27:56 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[26],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 10:27:56 Добавлен новый ЛИД, id: 26 
+17.02.17 10:29:00 Вызван метод: user.current с параметрами: {"auth":"645wzitsph0d3lp9i0wvlho1se01zqiv"} 
+17.02.17 10:29:01 Пользователь залогинился 
+17.02.17 10:29:39 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD&fields%5BLAST_NAME%5D=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22https%3A%2F%2Fcs7052.vk.me%2Fc638326%2Fv638326430%2F25341%2FbxdiUS4_w-8.jpg%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid356505430"] 
+17.02.17 10:29:40 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[28],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 10:29:40 Добавлен новый ЛИД, id: 28 
+17.02.17 10:30:59 Вызван метод: user.current с параметрами: {"auth":"lgayacr6qm21rt2gz0cxpspho11ic5m1"} 
+17.02.17 10:31:00 Пользователь залогинился 
+17.02.17 10:31:34 Вызван метод: user.current с параметрами: {"auth":"aa97tivaj54hlavmf137hi3m41qkrcbn"} 
+17.02.17 10:31:34 Пользователь залогинился 
+17.02.17 10:31:37 Вызван метод: user.current с параметрами: {"auth":"lrovnwwrfq1pgev89mjqmf0y72kz6oby"} 
+17.02.17 10:31:38 Пользователь залогинился 
+17.02.17 10:32:02 Вызван метод: user.current с параметрами: {"auth":"uqe1mc8869o2i2n6dxcmlo8vtm580t9a"} 
+17.02.17 10:32:02 Пользователь залогинился 
+17.02.17 10:36:04 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:36:04 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:36:05 Вызван метод: user.current с параметрами: {"auth":"wk43vhsew11i22uymyqn5z553cdav403"} 
+17.02.17 10:36:07 Вызван метод: user.current с параметрами: {"auth":"3fbct0k8k3sjxxl3fnaxwpqelobjum9r"} 
+17.02.17 10:36:07 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:36:07 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:37:00 Вызван метод: user.current с параметрами: {"auth":"pq12vg5viy3nkic56n53ga01vb6cxecx"} 
+17.02.17 10:37:01 Вызван метод: user.current с параметрами: {"auth":"rn6h9or4yincjrishw66w5pfq119wcon"} 
+17.02.17 10:37:02 ОШИБКА: User authorization failed: invalid access_token (4). 
+17.02.17 10:37:02 ОШИБКА: У пользователя неправильный токен 
+17.02.17 10:37:29 Вызван метод: user.current с параметрами: {"auth":"axfxotjgw6x1ivfbcmkaqiy846x0vbrt"} 
+17.02.17 10:37:30 Вызван метод: user.current с параметрами: {"auth":"1vo7311j0ielwuudy99djcgrv3i0v5oo"} 
+17.02.17 10:37:31 Пользователь залогинился 
+17.02.17 10:37:54 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD&fields%5BLAST_NAME%5D=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22https%3A%2F%2Fcs7052.vk.me%2Fc638326%2Fv638326430%2F25341%2FbxdiUS4_w-8.jpg%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid356505430"] 
+17.02.17 10:37:55 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[30],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 10:37:55 Добавлен новый ЛИД, id: 30 
+17.02.17 10:39:05 Вызван метод batch для добавления лидов, параметры: ["crm.lead.add?fields%5BTITLE%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD+%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%5B%D0%9B%D0%B8%D0%B4+%D0%B8%D0%B7+%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5%5D&fields%5BNAME%5D=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD&fields%5BLAST_NAME%5D=%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&fields%5BCOMMENTS%5D=%3Cimg+src%3D%22https%3A%2F%2Fcs7052.vk.me%2Fc638326%2Fv638326430%2F25341%2FbxdiUS4_w-8.jpg%22%3E&fields%5BSOURCE_ID%5D=VK+%D0%98%D0%9D%D0%A2%D0%95%D0%93%D0%A0%D0%90%D0%A6%D0%98%D0%AF&fields%5BSOURCE_DESCRIPTION%5D=https%3A%2F%2Fvk.com%2Fid356505430"] 
+17.02.17 10:39:06 Было произведено пакетное добавление ЛИДОВ: {"result":{"result":[32],"result_error":[],"result_total":[],"result_next":[]}} 
+17.02.17 10:39:06 Добавлен новый ЛИД, id: 32 
+17.02.17 10:40:01 Вызван метод: user.current с параметрами: {"auth":"u3sw5qx8jf5t1t9g4023snu3alpzl16n"} 
+17.02.17 10:40:01 Пользователь залогинился 
+17.02.17 11:46:24 Пользователь залогинился 
+17.02.17 11:46:52 Пользователь залогинился 
+17.02.17 13:35:44 Вызван метод: user.current с параметрами: {"auth":"7sj9mfzg92kx85x6zcui1v552udtzefb"} 
+17.02.17 13:35:44 Пользователь залогинился 

@@ -1,0 +1,11 @@
+19.06.17 10:46:50 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"a7v4215vdl44ekajxvpav4fpsexa4e51"} 
+19.06.17 10:46:50 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"a7v4215vdl44ekajxvpav4fpsexa4e51","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+19.06.17 10:48:21 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"as90b1u24t0e8syonvbu7wt7ueyeqhwa"} 
+19.06.17 10:48:21 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"as90b1u24t0e8syonvbu7wt7ueyeqhwa"} 
+19.06.17 10:48:22 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"as90b1u24t0e8syonvbu7wt7ueyeqhwa","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+19.06.17 10:51:04 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"19w837lyigx56z4rzsb9crwkq0fu7rn4"} 
+19.06.17 10:51:04 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"19w837lyigx56z4rzsb9crwkq0fu7rn4"} 
+19.06.17 10:51:05 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"19w837lyigx56z4rzsb9crwkq0fu7rn4","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+19.06.17 10:51:59 vkbitrix24@gmail.com Вызван метод: user.current с параметрами: {"auth":"xfjoluxi3sdpei4awmxu8fslywxkfj59"} 
+19.06.17 10:51:59 vkbitrix24@gmail.com Вызван метод: crm.dealcategory.stage.list с параметрами: {"auth":"xfjoluxi3sdpei4awmxu8fslywxkfj59"} 
+19.06.17 10:52:00 vkbitrix24@gmail.com Вызван метод: user.get с параметрами: {"auth":"xfjoluxi3sdpei4awmxu8fslywxkfj59","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 

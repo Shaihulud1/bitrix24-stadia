@@ -1,0 +1,82 @@
+04.10.17 03:33:43  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 03:33:43  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 03:33:43  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 03:33:44  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 03:33:44  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 03:33:44  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 03:33:44  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 03:33:44  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 08:20:56  ОШИБКА: invalid_grant() 
+04.10.17 08:20:57  Вызван метод: user.current с параметрами: {"auth":"k260p7gj93cr699p1ypj9xmqi60ksrww"} 
+04.10.17 08:24:14  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 08:24:14  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 08:24:14  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 08:24:14  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 08:24:14  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 08:24:14  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 08:24:14  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 08:24:14  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 09:19:42  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 09:19:42  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:19:42  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:19:42  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:19:42  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:19:42  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 09:52:34  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:34  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 09:52:34  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 09:52:34  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:34  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:34  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:52:34  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:52:34  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 09:52:49  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:49  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 09:52:49  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 09:52:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 09:52:50  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:52:50  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 09:52:50  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 10:29:20  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 10:29:20  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 10:29:20  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 10:29:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 10:29:21  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 10:29:21  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 10:29:21  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 10:29:21  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 20:27:49  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:27:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:27:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:27:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:27:50  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:27:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:27:50  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:27:51  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:31:03  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:31:03  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 20:31:03  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 20:31:04  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:31:04  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:31:04  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:31:04  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:31:04  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 20:34:58  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:34:58  Вызван метод: user.current с параметрами: {"auth":""} 
+04.10.17 20:34:58  Вызван метод: crm.status.list с параметрами: {"auth":""} 
+04.10.17 20:34:59  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:34:59  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:34:59  Вызван метод: user.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:34:59  Вызван метод: sonet_group.get с параметрами: {"auth":"","order":"ASC","filter":{"ACTIVE":"1"},"start":0} 
+04.10.17 20:34:59  Вызван метод: event.get с параметрами: {"auth":""} 
+04.10.17 20:43:42  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:43:42  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:43:43  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:43:43  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:43:43  ОШИБКА: invalid_request(No "refresh_token" parameter found) 
+04.10.17 20:43:43  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:43:43  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:43:44  ОШИБКА: NO_AUTH_FOUND(Wrong authorization data) 
+04.10.17 20:44:17  Вызван метод: user.current с параметрами: {"auth":"3i8ouushbzxp8kilrdmfratv2uyixkd6"} 
+04.10.17 20:44:33  Вызван метод: user.current с параметрами: {"auth":"guiw2wgzy2mmdqnz3r6uafeqttb1c2hi"} 
